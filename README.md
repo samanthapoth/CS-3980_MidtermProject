@@ -141,17 +141,17 @@ uvicorn main:app --port 8000 --reload
 
 When the steps above are the completed, the app will open your web browser with the setup shown in the image below.
 
-[App setup when app is opened](<Screenshot 2024-03-08 at 8.15.46 PM.png>)
+<img width="500" alt="Screenshot 2024-03-08 at 8 48 05 PM" src="https://github.com/samanthapoth/CS-3980_MidtermProject/assets/90707077/5544148f-e8f4-4f29-b5cd-dacc57aacd5d">
 
 To add a new team, press the "Add New Sports Team" button. This will bring up a form shown in the image below.
 
-![Form used to create a new team](<Screenshot 2024-03-08 at 8.28.25 PM.png>)
+<img width="500" alt="Screenshot 2024-03-08 at 8 49 14 PM" src="https://github.com/samanthapoth/CS-3980_MidtermProject/assets/90707077/1fe68c11-f668-4eb1-a1aa-7026c58d54b7">
 
 Users must select crom the dropdown the name of the NCAA team they follow and what gender of sports they will be following. The Sport description box is optional for users to input what specific sport they would like to follow. Click the "Add" button to add the team to your list.
 
 To edit the Name, Gender, or Sport of a team that you have added, click the edit button shown in the image below.
 
-![Edit icon to edit a team](<Screenshot 2024-03-08 at 8.33.29 PM.png>)
+<img width="500" alt="Screenshot 2024-03-08 at 8 33 29 PM" src="https://github.com/samanthapoth/CS-3980_MidtermProject/assets/90707077/9390a6a0-6ead-45c3-aa63-5c06ad85ff56">
 
 Complete the form and click the "Update" button for changes to take effect.
 
