@@ -135,7 +135,7 @@ The icon was created by Pause08 on Flaticon.
 
 ## 4. Using the App
 
-To run the app, activate your virtual environment in you IDE as shown in #1 above. After that, navigate using the 'cd' command to the folder where your project is stored. Then, paste the following command in your terminal:
+To run the app, install the requirements in requirements.txt as shown above. After that, navigate using the 'cd' command to the folder where this project is stored. Then, paste the following command in your terminal:
 
 uvicorn main:app --port 8000 --reload
 
