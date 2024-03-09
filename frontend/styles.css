@@ -1,0 +1,110 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  font-family: sans-serif;
+  background-color: #4e4e4e;
+}
+
+.app {
+  height: 100%;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  border: 0.25rem solid #eae564;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  overflow-y: auto;
+}
+
+#addNew {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fffc98;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.fa-plus {
+  background-color: #e2df85;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+#todos {
+  display: flex;
+  flex-direction: column;
+  grid-template-columns: 1fr;
+  gap: 14px;
+  overflow-y: auto;
+}
+
+#todos div {
+  border: 3px solid #000000;
+  background-color: #fffc98; 
+  border-radius: 6px;
+  padding: 5px;
+  display: grid;
+  gap: 4px;
+}
+
+#todos div .options {
+  justify-self: center;
+  display: flex;
+  gap: 20px;
+}
+
+#todos div .options i {
+  cursor: pointer;
+}
+
+#msg {
+  color: red;
+}
+
+#msg-edit {
+  color: red;
+}
+
+.gender-text{
+  color: #000;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 0;
+  padding-left: 10px;
+  text-align: left;
+}
+
+.addingNew{
+  margin-bottom: 0;
+  font-size: 18px;
+  font-family:Georgia, 'Times New Roman', Times, serif;;
+}
+
+.labels{
+  font-size: 18px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 300;
+  margin: 0;
+  padding-left: 0px;
+  padding-top: 10px;
+  text-align: left;
+}
+
+.g{
+  .labels{
+    font-size: 14px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    margin: 0;
+    padding-left: 0px;
+    padding-top: 10px;
+    text-align: left;
+  }
+}
