@@ -1,5 +1,5 @@
 # FastAPI Sports App
-This app was created for CS:3980:001 as a midterm project. The source code is from https://github.com/changhuixu/CS3980-2024/tree/main/my_todo_app. The function of this app is to allow users to add their NCAA favorite sports teams to a list. Any NCAA team can be chosen and the user can input what gender and what sport they like to follow. This app will be expanded to include stats of each team that the user adds, ticket sales of each team, and a new design interface for the user. Read the information below to know how to properly run the app and use its features.
+This app was created for CS:3980:001 at the University of Iowa as a midterm project. The source code is from https://github.com/changhuixu/CS3980-2024/tree/main/my_todo_app which was taught in class. The function of this app is to allow users to add their NCAA favorite sports teams to a list. Any NCAA team can be chosen and the user can input what gender and what sport they like to follow. This app will be expanded to include stats of each team that the user adds, ticket sales of each team, and a new design interface for the user. Read the information below to know how to properly run the app and use its features.
 
 ## 1. Python virtual environment
 
