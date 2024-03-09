@@ -1,0 +1,5337 @@
+[
+    {
+      "Team": "Abilene Christian Wildcats",
+      "Hex_Code": "#4f2170;",
+      "color_level": 1
+    },
+    {
+      "Team": "Abilene Christian Wildcats",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "Abilene Christian Wildcats",
+      "Hex_Code": "#c5c6c8;",
+      "color_level": 3
+    },
+    {
+      "Team": "Air Force Falcons",
+      "Hex_Code": "#003087;",
+      "color_level": 1
+    },
+    {
+      "Team": "Air Force Falcons",
+      "Hex_Code": "#8A8D8F;",
+      "color_level": 2
+    },
+    {
+      "Team": "Akron Zips",
+      "Hex_Code": "#041E42;",
+      "color_level": 1
+    },
+    {
+      "Team": "Akron Zips",
+      "Hex_Code": "#A89968;",
+      "color_level": 2
+    },
+    {
+      "Team": "Akron Zips",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Alabama A&M Bulldogs",
+      "Hex_Code": "#660000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Alabama A&M Bulldogs",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "Alabama Crimson Tide",
+      "Hex_Code": "#9e1b32;",
+      "color_level": 1
+    },
+    {
+      "Team": "Alabama Crimson Tide",
+      "Hex_Code": "#828a8f;",
+      "color_level": 2
+    },
+    {
+      "Team": "Alabama Crimson Tide",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Alabama State Hornets",
+      "Hex_Code": "#C99700;",
+      "color_level": 1
+    },
+    {
+      "Team": "Alabama State Hornets",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "American Eagles Colors",
+      "Hex_Code": "#143d8d;",
+      "color_level": 1
+    },
+    {
+      "Team": "American Eagles Colors",
+      "Hex_Code": "#c41230;",
+      "color_level": 2
+    },
+    {
+      "Team": "American Eagles Colors",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Albany Great Danes",
+      "Hex_Code": "#461660;",
+      "color_level": 1
+    },
+    {
+      "Team": "Albany Great Danes",
+      "Hex_Code": "#eeb211;",
+      "color_level": 2
+    },
+    {
+      "Team": "Alcorn State Braves",
+      "Hex_Code": "#ce8e00;",
+      "color_level": 1
+    },
+    {
+      "Team": "Alcorn State Braves",
+      "Hex_Code": "#4b306a;",
+      "color_level": 2
+    },
+    {
+      "Team": "Appalachian State Mountaineers",
+      "Hex_Code": "#222222;",
+      "color_level": 1
+    },
+    {
+      "Team": "Appalachian State Mountaineers",
+      "Hex_Code": "#ffcc00;",
+      "color_level": 2
+    },
+    {
+      "Team": "Arizona Wildcats",
+      "Hex_Code": "#CC0033;",
+      "color_level": 1
+    },
+    {
+      "Team": "Arizona Wildcats",
+      "Hex_Code": "#003366;",
+      "color_level": 2
+    },
+    {
+      "Team": "Arizona State Sun Devils",
+      "Hex_Code": "#8C1D40;",
+      "color_level": 1
+    },
+    {
+      "Team": "Arizona State Sun Devils",
+      "Hex_Code": "#FFC627;",
+      "color_level": 2
+    },
+    {
+      "Team": "Arkansas Golden Lions",
+      "Hex_Code": "#EEB310;",
+      "color_level": 1
+    },
+    {
+      "Team": "Arkansas Golden Lions",
+      "Hex_Code": "#E31837;",
+      "color_level": 2
+    },
+    {
+      "Team": "Arkansas Golden Lions",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Arkansas Golden Lions",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Arkansas Little-Rock Trojans",
+      "Hex_Code": "#6e2639;",
+      "color_level": 1
+    },
+    {
+      "Team": "Arkansas Little-Rock Trojans",
+      "Hex_Code": "#A7A9AC;",
+      "color_level": 2
+    },
+    {
+      "Team": "Arkansas Razorbacks",
+      "Hex_Code": "#9D2235;",
+      "color_level": 1
+    },
+    {
+      "Team": "Arkansas Razorbacks",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Arkansas State Red Wolves",
+      "Hex_Code": "#cc092f;",
+      "color_level": 1
+    },
+    {
+      "Team": "Arkansas State Red Wolves",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Army Black Knights",
+      "Hex_Code": "#FFD530;",
+      "color_level": 1
+    },
+    {
+      "Team": "Army Black Knights",
+      "Hex_Code": "#D4BF91;",
+      "color_level": 2
+    },
+    {
+      "Team": "Army Black Knights",
+      "Hex_Code": "#B2B4B3;",
+      "color_level": 3
+    },
+    {
+      "Team": "Army Black Knights",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Army Black Knights",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 5
+    },
+    {
+      "Team": "Austin Peay Governors",
+      "Hex_Code": "#C41E3A;",
+      "color_level": 1
+    },
+    {
+      "Team": "Austin Peay Governors",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "Austin Peay Governors",
+      "Hex_Code": "#ADAFAA;",
+      "color_level": 3
+    },
+    {
+      "Team": "Austin Peay Governors",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Auburn Tigers",
+      "Hex_Code": "#0C2340;",
+      "color_level": 1
+    },
+    {
+      "Team": "Auburn Tigers",
+      "Hex_Code": "#E87722;",
+      "color_level": 2
+    },
+    {
+      "Team": "Ball State Cardinals",
+      "Hex_Code": "#BA0C2F;",
+      "color_level": 1
+    },
+    {
+      "Team": "Ball State Cardinals",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Ball State Cardinals",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Baylor Bears",
+      "Hex_Code": "#003015;",
+      "color_level": 1
+    },
+    {
+      "Team": "Baylor Bears",
+      "Hex_Code": "#Fecb00;",
+      "color_level": 2
+    },
+    {
+      "Team": "B-C Wildcats",
+      "Hex_Code": "#F2A900;",
+      "color_level": 1
+    },
+    {
+      "Team": "B-C Wildcats",
+      "Hex_Code": "#6F263D;",
+      "color_level": 2
+    },
+    {
+      "Team": "B-C Wildcats",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Belmont Bruins",
+      "Hex_Code": "#C8102E;",
+      "color_level": 1
+    },
+    {
+      "Team": "Belmont Bruins",
+      "Hex_Code": "#00205B;",
+      "color_level": 2
+    },
+    {
+      "Team": "Belmont Bruins",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Belmont Bruins",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Binghamton Bearcats",
+      "Hex_Code": "#005A43;",
+      "color_level": 1
+    },
+    {
+      "Team": "Binghamton Bearcats",
+      "Hex_Code": "#169B62;",
+      "color_level": 2
+    },
+    {
+      "Team": "Binghamton Bearcats",
+      "Hex_Code": "#BF0D3E;",
+      "color_level": 3
+    },
+    {
+      "Team": "Binghamton Bearcats",
+      "Hex_Code": "#B1B3B3;",
+      "color_level": 4
+    },
+    {
+      "Team": "Boise State Broncos",
+      "Hex_Code": "#D64309;",
+      "color_level": 1
+    },
+    {
+      "Team": "Boise State Broncos",
+      "Hex_Code": "#0033A0;",
+      "color_level": 2
+    },
+    {
+      "Team": "Boston College Eagles",
+      "Hex_Code": "#98002E;",
+      "color_level": 1
+    },
+    {
+      "Team": "Boston College Eagles",
+      "Hex_Code": "#BC9B6A;",
+      "color_level": 2
+    },
+    {
+      "Team": "Boston College Eagles",
+      "Hex_Code": "#726158;",
+      "color_level": 3
+    },
+    {
+      "Team": "Boston University Terriers",
+      "Hex_Code": "#CC0000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Boston University Terriers",
+      "Hex_Code": "#A3011B;",
+      "color_level": 2
+    },
+    {
+      "Team": "Boston University Terriers",
+      "Hex_Code": "#231F20;",
+      "color_level": 3
+    },
+    {
+      "Team": "Boston University Terriers",
+      "Hex_Code": "#929497;",
+      "color_level": 4
+    },
+    {
+      "Team": "Boston University Terriers",
+      "Hex_Code": "#E6E6E7;",
+      "color_level": 5
+    },
+    {
+      "Team": "Boston University Terriers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 6
+    },
+    {
+      "Team": "Bowling Green Falcons",
+      "Hex_Code": "#FE5000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Bowling Green Falcons",
+      "Hex_Code": "#4F2C1D;",
+      "color_level": 2
+    },
+    {
+      "Team": "Bowling Green Falcons",
+      "Hex_Code": "#CDA077;",
+      "color_level": 3
+    },
+    {
+      "Team": "Bowling Green Falcons",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Bradley Braves",
+      "Hex_Code": "#A50000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Bradley Braves",
+      "Hex_Code": "#999999;",
+      "color_level": 2
+    },
+    {
+      "Team": "Bradley Braves",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Brown Bears",
+      "Hex_Code": "#4E3629;",
+      "color_level": 1
+    },
+    {
+      "Team": "Brown Bears",
+      "Hex_Code": "#7C2529;",
+      "color_level": 2
+    },
+    {
+      "Team": "Brown Bears",
+      "Hex_Code": "#E4002B;",
+      "color_level": 3
+    },
+    {
+      "Team": "Brown Bears",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Bryant Bulldogs",
+      "Hex_Code": "#b4975b;",
+      "color_level": 1
+    },
+    {
+      "Team": "Bryant Bulldogs",
+      "Hex_Code": "#c9bb8c;",
+      "color_level": 2
+    },
+    {
+      "Team": "Bryant Bulldogs",
+      "Hex_Code": "#818286;",
+      "color_level": 3
+    },
+    {
+      "Team": "Bryant Bulldogs",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Bucknell Bison",
+      "Hex_Code": "#E87722;",
+      "color_level": 1
+    },
+    {
+      "Team": "Bucknell Bison",
+      "Hex_Code": "#003865;",
+      "color_level": 2
+    },
+    {
+      "Team": "Bucknell Bison",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Buffalo Bulls",
+      "Hex_Code": "#005BBB;",
+      "color_level": 1
+    },
+    {
+      "Team": "Buffalo Bulls",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "Butler Bulldogs",
+      "Hex_Code": "#13294b;",
+      "color_level": 1
+    },
+    {
+      "Team": "Butler Bulldogs",
+      "Hex_Code": "#747678;",
+      "color_level": 2
+    },
+    {
+      "Team": "Butler Bulldogs",
+      "Hex_Code": "#d1e0d7;",
+      "color_level": 3
+    },
+    {
+      "Team": "Butler Bulldogs",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "BYU Cougars",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "BYU Cougars",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "BYU Cougars",
+      "Hex_Code": "#0062B8;",
+      "color_level": 3
+    },
+    {
+      "Team": "Cal Poly Mustangs",
+      "Hex_Code": "#003831;",
+      "color_level": 1
+    },
+    {
+      "Team": "Cal Poly Mustangs",
+      "Hex_Code": "#FFE395;",
+      "color_level": 2
+    },
+    {
+      "Team": "Cal Poly Mustangs",
+      "Hex_Code": "#B38F4F;",
+      "color_level": 3
+    },
+    {
+      "Team": "Cal Poly Mustangs",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Cal State Fullerton Titans",
+      "Hex_Code": "#00274C;",
+      "color_level": 1
+    },
+    {
+      "Team": "Cal State Fullerton Titans",
+      "Hex_Code": "#DC8218;",
+      "color_level": 2
+    },
+    {
+      "Team": "Cal State Fullerton Titans",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "California Baptist Lancers",
+      "Hex_Code": "#002554;",
+      "color_level": 1
+    },
+    {
+      "Team": "California Baptist Lancers",
+      "Hex_Code": "#A37400;",
+      "color_level": 2
+    },
+    {
+      "Team": "California Golden Bears",
+      "Hex_Code": "#003262;",
+      "color_level": 1
+    },
+    {
+      "Team": "California Golden Bears",
+      "Hex_Code": "#3B7EA1;",
+      "color_level": 2
+    },
+    {
+      "Team": "California Golden Bears",
+      "Hex_Code": "#FDB515;",
+      "color_level": 3
+    },
+    {
+      "Team": "California Golden Bears",
+      "Hex_Code": "#c4820e;",
+      "color_level": 4
+    },
+    {
+      "Team": "Campbell Fighting Camels",
+      "Hex_Code": "#f58025;",
+      "color_level": 1
+    },
+    {
+      "Team": "Campbell Fighting Camels",
+      "Hex_Code": "#231f20;",
+      "color_level": 2
+    },
+    {
+      "Team": "Canisius Golden Griffins",
+      "Hex_Code": "#0C2340;",
+      "color_level": 1
+    },
+    {
+      "Team": "Canisius Golden Griffins",
+      "Hex_Code": "#ffba00;",
+      "color_level": 2
+    },
+    {
+      "Team": "Canisius Golden Griffins",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "C. C. Blue Devils",
+      "Hex_Code": "#00539b;",
+      "color_level": 1
+    },
+    {
+      "Team": "C. C. Blue Devils",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "C. C. Blue Devils",
+      "Hex_Code": "#cfd4d8;",
+      "color_level": 3
+    },
+    {
+      "Team": "Central Arkansas Bears",
+      "Hex_Code": "#4f2d7f;",
+      "color_level": 1
+    },
+    {
+      "Team": "Central Arkansas Bears",
+      "Hex_Code": "#818a8f;",
+      "color_level": 2
+    },
+    {
+      "Team": "Central Arkansas Bears",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Central Arkansas Bears",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Central Michigan Chippewas",
+      "Hex_Code": "#6A0032;",
+      "color_level": 1
+    },
+    {
+      "Team": "Central Michigan Chippewas",
+      "Hex_Code": "#FFC82E;",
+      "color_level": 2
+    },
+    {
+      "Team": "Charlotte 49ers",
+      "Hex_Code": "#046A38;",
+      "color_level": 1
+    },
+    {
+      "Team": "Charlotte 49ers",
+      "Hex_Code": "#B9975B;",
+      "color_level": 2
+    },
+    {
+      "Team": "Charlotte 49ers",
+      "Hex_Code": "#27251F;",
+      "color_level": 3
+    },
+    {
+      "Team": "Charleston Buccaneers",
+      "Hex_Code": "#A8996E;",
+      "color_level": 1
+    },
+    {
+      "Team": "Charleston Buccaneers",
+      "Hex_Code": "#002855;",
+      "color_level": 2
+    },
+    {
+      "Team": "Charleston Buccaneers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Charleston Cougars",
+      "Hex_Code": "#800000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Charleston Cougars",
+      "Hex_Code": "#9d8958;",
+      "color_level": 2
+    },
+    {
+      "Team": "Charleston Cougars",
+      "Hex_Code": "#d9d9d6;",
+      "color_level": 3
+    },
+    {
+      "Team": "Charleston Cougars",
+      "Hex_Code": "#c5b783;",
+      "color_level": 4
+    },
+    {
+      "Team": "Charleston Cougars",
+      "Hex_Code": "#ffffff;",
+      "color_level": 5
+    },
+    {
+      "Team": "Chattanooga Mocs",
+      "Hex_Code": "#00386b;",
+      "color_level": 1
+    },
+    {
+      "Team": "Chattanooga Mocs",
+      "Hex_Code": "#e0aa0f;",
+      "color_level": 2
+    },
+    {
+      "Team": "Chattanooga Mocs",
+      "Hex_Code": "#adafaa;",
+      "color_level": 3
+    },
+    {
+      "Team": "Chicago State Cougars",
+      "Hex_Code": "#006666;",
+      "color_level": 1
+    },
+    {
+      "Team": "Chicago State Cougars",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Cincinnati Bearcats",
+      "Hex_Code": "#E00122;",
+      "color_level": 1
+    },
+    {
+      "Team": "Cincinnati Bearcats",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Cincinnati Bearcats",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "The Citadel",
+      "Hex_Code": "#3975B7;",
+      "color_level": 1
+    },
+    {
+      "Team": "The Citadel",
+      "Hex_Code": "#1F3A60;",
+      "color_level": 2
+    },
+    {
+      "Team": "The Citadel",
+      "Hex_Code": "#FFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Clemson Tigers",
+      "Hex_Code": "#F56600;",
+      "color_level": 1
+    },
+    {
+      "Team": "Clemson Tigers",
+      "Hex_Code": "#522D80;",
+      "color_level": 2
+    },
+    {
+      "Team": "Cleveland State Vikings",
+      "Hex_Code": "#006747;",
+      "color_level": 1
+    },
+    {
+      "Team": "Cleveland State Vikings",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Cleveland State Vikings",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Coastal Carolina Chanticleers",
+      "Hex_Code": "#006f71;",
+      "color_level": 1
+    },
+    {
+      "Team": "Coastal Carolina Chanticleers",
+      "Hex_Code": "#A27752;",
+      "color_level": 2
+    },
+    {
+      "Team": "Coastal Carolina Chanticleers",
+      "Hex_Code": "#111111;",
+      "color_level": 3
+    },
+    {
+      "Team": "Colgate Raiders",
+      "Hex_Code": "#821019;",
+      "color_level": 1
+    },
+    {
+      "Team": "Colgate Raiders",
+      "Hex_Code": "#E10028;",
+      "color_level": 2
+    },
+    {
+      "Team": "Colgate Raiders",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Colgate Raiders",
+      "Hex_Code": "#5A646E;",
+      "color_level": 4
+    },
+    {
+      "Team": "Colgate Raiders",
+      "Hex_Code": "#D2D4D6;",
+      "color_level": 5
+    },
+    {
+      "Team": "Colorado Buffaloes",
+      "Hex_Code": "#CFB87C;",
+      "color_level": 1
+    },
+    {
+      "Team": "Colorado Buffaloes",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Colorado Buffaloes",
+      "Hex_Code": "#565A5C;",
+      "color_level": 3
+    },
+    {
+      "Team": "Colorado Buffaloes",
+      "Hex_Code": "#A2A4A3;",
+      "color_level": 4
+    },
+    {
+      "Team": "Colorado Buffaloes",
+      "Hex_Code": "#4b92db;",
+      "color_level": 5
+    },
+    {
+      "Team": "Colorado State Rams",
+      "Hex_Code": "#1E4D2B;",
+      "color_level": 1
+    },
+    {
+      "Team": "Colorado State Rams",
+      "Hex_Code": "#C8C372;",
+      "color_level": 2
+    },
+    {
+      "Team": "Columbia Lions",
+      "Hex_Code": "#003865;",
+      "color_level": 1
+    },
+    {
+      "Team": "Columbia Lions",
+      "Hex_Code": "#9BCBEB;",
+      "color_level": 2
+    },
+    {
+      "Team": "Columbia Lions",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Connecticut Huskies",
+      "Hex_Code": "#000e2f;",
+      "color_level": 1
+    },
+    {
+      "Team": "Connecticut Huskies",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "Connecticut Huskies",
+      "Hex_Code": "#7C878E;",
+      "color_level": 3
+    },
+    {
+      "Team": "Connecticut Huskies",
+      "Hex_Code": "#e4002b;",
+      "color_level": 4
+    },
+    {
+      "Team": "Connecticut Huskies",
+      "Hex_Code": "#a2aaad;",
+      "color_level": 5
+    },
+    {
+      "Team": "Connecticut Huskies",
+      "Hex_Code": "#a4c8e1;",
+      "color_level": 6
+    },
+    {
+      "Team": "Coppin State Eagles",
+      "Hex_Code": "#003056;",
+      "color_level": 1
+    },
+    {
+      "Team": "Coppin State Eagles",
+      "Hex_Code": "#ffc915;",
+      "color_level": 2
+    },
+    {
+      "Team": "Cornell Big Red",
+      "Hex_Code": "#B31B1B;",
+      "color_level": 1
+    },
+    {
+      "Team": "Cornell Big Red",
+      "Hex_Code": "#5e3920;",
+      "color_level": 2
+    },
+    {
+      "Team": "Cornell Big Red",
+      "Hex_Code": "#89572e;",
+      "color_level": 3
+    },
+    {
+      "Team": "Cornell Big Red",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Cornell Big Red",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 5
+    },
+    {
+      "Team": "Creighton Bluejays",
+      "Hex_Code": "#005ca9;",
+      "color_level": 1
+    },
+    {
+      "Team": "Creighton Bluejays",
+      "Hex_Code": "#00235D;",
+      "color_level": 2
+    },
+    {
+      "Team": "Creighton Bluejays",
+      "Hex_Code": "#6CADDE;",
+      "color_level": 3
+    },
+    {
+      "Team": "Creighton Bluejays",
+      "Hex_Code": "#828282;",
+      "color_level": 4
+    },
+    {
+      "Team": "Creighton Bluejays",
+      "Hex_Code": "#C8C8C8;",
+      "color_level": 5
+    },
+    {
+      "Team": "Creighton Bluejays",
+      "Hex_Code": "#8A8D8F;",
+      "color_level": 6
+    },
+    {
+      "Team": "CSUB Roadrunners",
+      "Hex_Code": "#003594;",
+      "color_level": 1
+    },
+    {
+      "Team": "CSUB Roadrunners",
+      "Hex_Code": "#FFC72C;",
+      "color_level": 2
+    },
+    {
+      "Team": "CSUN Matadors",
+      "Hex_Code": "#CE1126;",
+      "color_level": 1
+    },
+    {
+      "Team": "CSUN Matadors",
+      "Hex_Code": "#D1CEC6;",
+      "color_level": 2
+    },
+    {
+      "Team": "CSUN Matadors",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Dartmouth Big Green",
+      "Hex_Code": "#046A38;",
+      "color_level": 1
+    },
+    {
+      "Team": "Dartmouth Big Green",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Dartmouth Big Green",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Davidson Wildcats",
+      "Hex_Code": "#ac1a2f;",
+      "color_level": 1
+    },
+    {
+      "Team": "Davidson Wildcats",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Dayton Flyers",
+      "Hex_Code": "#CE1141;",
+      "color_level": 1
+    },
+    {
+      "Team": "Dayton Flyers",
+      "Hex_Code": "#004B8D;",
+      "color_level": 2
+    },
+    {
+      "Team": "Dayton Flyers",
+      "Hex_Code": "#F80228;",
+      "color_level": 3
+    },
+    {
+      "Team": "Dayton Flyers",
+      "Hex_Code": "#0200D1;",
+      "color_level": 4
+    },
+    {
+      "Team": "Dayton Flyers",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 5
+    },
+    {
+      "Team": "Denver Pioneers",
+      "Hex_Code": "#8b2332;",
+      "color_level": 1
+    },
+    {
+      "Team": "Denver Pioneers",
+      "Hex_Code": "#8b6f4b;",
+      "color_level": 2
+    },
+    {
+      "Team": "Delaware Blue Hens",
+      "Hex_Code": "#00539f;",
+      "color_level": 1
+    },
+    {
+      "Team": "Delaware Blue Hens",
+      "Hex_Code": "#FFDD31;",
+      "color_level": 2
+    },
+    {
+      "Team": "Delaware Blue Hens",
+      "Hex_Code": "#ffd200;",
+      "color_level": 3
+    },
+    {
+      "Team": "Delaware State Hornets",
+      "Hex_Code": "#EE3124;",
+      "color_level": 1
+    },
+    {
+      "Team": "Delaware State Hornets",
+      "Hex_Code": "#72CDF4;",
+      "color_level": 2
+    },
+    {
+      "Team": "Delaware State Hornets",
+      "Hex_Code": "#009DDC;",
+      "color_level": 3
+    },
+    {
+      "Team": "Delaware State Hornets",
+      "Hex_Code": "#231F20;",
+      "color_level": 4
+    },
+    {
+      "Team": "DePaul Blue Demons",
+      "Hex_Code": "#005EB8;",
+      "color_level": 1
+    },
+    {
+      "Team": "DePaul Blue Demons",
+      "Hex_Code": "#E4002B;",
+      "color_level": 2
+    },
+    {
+      "Team": "Detroit Mercy Titans",
+      "Hex_Code": "#A6093D;",
+      "color_level": 1
+    },
+    {
+      "Team": "Detroit Mercy Titans",
+      "Hex_Code": "#002D72;",
+      "color_level": 2
+    },
+    {
+      "Team": "Detroit Mercy Titans",
+      "Hex_Code": "#D7D2CB;",
+      "color_level": 3
+    },
+    {
+      "Team": "Drake Bulldogs",
+      "Hex_Code": "#004477;",
+      "color_level": 1
+    },
+    {
+      "Team": "Drake Bulldogs",
+      "Hex_Code": "#999999;",
+      "color_level": 2
+    },
+    {
+      "Team": "Drake Bulldogs",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Drexel Dragons",
+      "Hex_Code": "#00437b;",
+      "color_level": 1
+    },
+    {
+      "Team": "Drexel Dragons",
+      "Hex_Code": "#ffda02;",
+      "color_level": 2
+    },
+    {
+      "Team": "Duke Blue Devils",
+      "Hex_Code": "#003087;",
+      "color_level": 1
+    },
+    {
+      "Team": "Duke Blue Devils",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "Duke Blue Devils",
+      "Hex_Code": "#00539B;",
+      "color_level": 3
+    },
+    {
+      "Team": "Duke Blue Devils",
+      "Hex_Code": "#012169;",
+      "color_level": 4
+    },
+    {
+      "Team": "Duquesne Dukes",
+      "Hex_Code": "#041E42;",
+      "color_level": 1
+    },
+    {
+      "Team": "Duquesne Dukes",
+      "Hex_Code": "#BA0C2F;",
+      "color_level": 2
+    },
+    {
+      "Team": "Duquesne Dukes",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "East Carolina Pirates",
+      "Hex_Code": "#592A8A;",
+      "color_level": 1
+    },
+    {
+      "Team": "East Carolina Pirates",
+      "Hex_Code": "#FDC82F;",
+      "color_level": 2
+    },
+    {
+      "Team": "Eastern Michigan",
+      "Hex_Code": "#006633;",
+      "color_level": 1
+    },
+    {
+      "Team": "Eastern Michigan",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Eastern Michigan",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Eastern Illinois Panthers",
+      "Hex_Code": "#919295;",
+      "color_level": 1
+    },
+    {
+      "Team": "Eastern Illinois Panthers",
+      "Hex_Code": "#004b83;",
+      "color_level": 2
+    },
+    {
+      "Team": "Eastern Illinois Panthers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "E. Kentucky Colonels",
+      "Hex_Code": "#8a0039;",
+      "color_level": 1
+    },
+    {
+      "Team": "E. Kentucky Colonels",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "ETSU",
+      "Hex_Code": "#041e42;",
+      "color_level": 1
+    },
+    {
+      "Team": "ETSU",
+      "Hex_Code": "#FFC72C;",
+      "color_level": 2
+    },
+    {
+      "Team": "Eastern Washington",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Eastern Washington",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Eastern Washington",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Eastern Washington",
+      "Hex_Code": "NA",
+      "color_level": 4
+    },
+    {
+      "Team": "Elon Phoenix",
+      "Hex_Code": "#73000a;",
+      "color_level": 1
+    },
+    {
+      "Team": "Elon Phoenix",
+      "Hex_Code": "#b59a57;",
+      "color_level": 2
+    },
+    {
+      "Team": "Elon Phoenix",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Elon Phoenix",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Evansville Purple Aces",
+      "Hex_Code": "#52237f;",
+      "color_level": 1
+    },
+    {
+      "Team": "Evansville Purple Aces",
+      "Hex_Code": "#f36f21;",
+      "color_level": 2
+    },
+    {
+      "Team": "Evansville Purple Aces",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Fairfield Stags",
+      "Hex_Code": "#C8102E;",
+      "color_level": 1
+    },
+    {
+      "Team": "Fairfield Stags",
+      "Hex_Code": "#A2AAAD;",
+      "color_level": 2
+    },
+    {
+      "Team": "Fairfield Stags",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Fairfield Stags",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 4
+    },
+    {
+      "Team": "F. Dickinson Knights",
+      "Hex_Code": "#28334A;",
+      "color_level": 1
+    },
+    {
+      "Team": "F. Dickinson Knights",
+      "Hex_Code": "#72293C;",
+      "color_level": 2
+    },
+    {
+      "Team": "FAU Owls",
+      "Hex_Code": "#003366;",
+      "color_level": 1
+    },
+    {
+      "Team": "FAU Owls",
+      "Hex_Code": "#CC0000;",
+      "color_level": 2
+    },
+    {
+      "Team": "FAU Owls",
+      "Hex_Code": "#8A8D8F;",
+      "color_level": 3
+    },
+    {
+      "Team": "FAU Owls",
+      "Hex_Code": "#CCCCCC;",
+      "color_level": 4
+    },
+    {
+      "Team": "FIU Panthers",
+      "Hex_Code": "#081E3F;",
+      "color_level": 1
+    },
+    {
+      "Team": "FIU Panthers",
+      "Hex_Code": "#B6862C;",
+      "color_level": 2
+    },
+    {
+      "Team": "Florida A&M Rattlers",
+      "Hex_Code": "#ee7624;",
+      "color_level": 1
+    },
+    {
+      "Team": "Florida A&M Rattlers",
+      "Hex_Code": "#1b5633;",
+      "color_level": 2
+    },
+    {
+      "Team": "Florida A&M Rattlers",
+      "Hex_Code": "#231f20;",
+      "color_level": 3
+    },
+    {
+      "Team": "Florida Gators",
+      "Hex_Code": "#0021A5;",
+      "color_level": 1
+    },
+    {
+      "Team": "Florida Gators",
+      "Hex_Code": "#FA4616;",
+      "color_level": 2
+    },
+    {
+      "Team": "Florida Gulf Coast Eagles",
+      "Hex_Code": "#002D72;",
+      "color_level": 1
+    },
+    {
+      "Team": "Florida Gulf Coast Eagles",
+      "Hex_Code": "#007749;",
+      "color_level": 2
+    },
+    {
+      "Team": "Florida Gulf Coast Eagles",
+      "Hex_Code": "#B9975B;",
+      "color_level": 3
+    },
+    {
+      "Team": "Florida State Seminoles",
+      "Hex_Code": "#782F40;",
+      "color_level": 1
+    },
+    {
+      "Team": "Florida State Seminoles",
+      "Hex_Code": "#CEB888;",
+      "color_level": 2
+    },
+    {
+      "Team": "Florida State Seminoles",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Florida State Seminoles",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Fordham Rams",
+      "Hex_Code": "#860038;",
+      "color_level": 1
+    },
+    {
+      "Team": "Fordham Rams",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Fort Wayne Mastadons",
+      "Hex_Code": "#002F6C;",
+      "color_level": 1
+    },
+    {
+      "Team": "Fort Wayne Mastadons",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Fort Wayne Mastadons",
+      "Hex_Code": "#63666A;",
+      "color_level": 3
+    },
+    {
+      "Team": "Fort Wayne Mastadons",
+      "Hex_Code": "#97999B;",
+      "color_level": 4
+    },
+    {
+      "Team": "Fort Wayne Mastadons",
+      "Hex_Code": "#BBBCBC;",
+      "color_level": 5
+    },
+    {
+      "Team": "Fresno State Bulldogs",
+      "Hex_Code": "#db0032;",
+      "color_level": 1
+    },
+    {
+      "Team": "Fresno State Bulldogs",
+      "Hex_Code": "#002e6d;",
+      "color_level": 2
+    },
+    {
+      "Team": "Fresno State Bulldogs",
+      "Hex_Code": "#007934;",
+      "color_level": 3
+    },
+    {
+      "Team": "Furman Paladins",
+      "Hex_Code": "#201547;",
+      "color_level": 1
+    },
+    {
+      "Team": "Furman Paladins",
+      "Hex_Code": "#582c83;",
+      "color_level": 2
+    },
+    {
+      "Team": "Furman Paladins",
+      "Hex_Code": "#A7A8AA;",
+      "color_level": 3
+    },
+    {
+      "Team": "Gardner-Webb Bulldogs",
+      "Hex_Code": "#BF2F37;",
+      "color_level": 1
+    },
+    {
+      "Team": "Gardner-Webb Bulldogs",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "Gardner-Webb Bulldogs",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "George Mason Patriots",
+      "Hex_Code": "#006633;",
+      "color_level": 1
+    },
+    {
+      "Team": "George Mason Patriots",
+      "Hex_Code": "#FFCC33;",
+      "color_level": 2
+    },
+    {
+      "Team": "George Mason Patriots",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "George Mason Patriots",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "George Washington Colonials",
+      "Hex_Code": "#e2cb92;",
+      "color_level": 1
+    },
+    {
+      "Team": "George Washington Colonials",
+      "Hex_Code": "#002654;",
+      "color_level": 2
+    },
+    {
+      "Team": "George Washington Colonials",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Georgia Bulldogs",
+      "Hex_Code": "#BA0C2F;",
+      "color_level": 1
+    },
+    {
+      "Team": "Georgia Bulldogs",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Georgia Bulldogs",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Georgia Southern Eagles",
+      "Hex_Code": "#011e41;",
+      "color_level": 1
+    },
+    {
+      "Team": "Georgia Southern Eagles",
+      "Hex_Code": "#A3AAAE;",
+      "color_level": 2
+    },
+    {
+      "Team": "Georgia Southern Eagles",
+      "Hex_Code": "#87714D;",
+      "color_level": 3
+    },
+    {
+      "Team": "Georgia State Panthers",
+      "Hex_Code": "#0039A6;",
+      "color_level": 1
+    },
+    {
+      "Team": "Georgia State Panthers",
+      "Hex_Code": "#C60C30;",
+      "color_level": 2
+    },
+    {
+      "Team": "Georgia State Panthers",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Georgia Tech Yellow Jackets",
+      "Hex_Code": "#B3A369;",
+      "color_level": 1
+    },
+    {
+      "Team": "Georgia Tech Yellow Jackets",
+      "Hex_Code": "#A28D5B;",
+      "color_level": 2
+    },
+    {
+      "Team": "Georgia Tech Yellow Jackets",
+      "Hex_Code": "#003057;",
+      "color_level": 3
+    },
+    {
+      "Team": "Georgetown Hoyas",
+      "Hex_Code": "#041E42;",
+      "color_level": 1
+    },
+    {
+      "Team": "Georgetown Hoyas",
+      "Hex_Code": "#8D817B;",
+      "color_level": 2
+    },
+    {
+      "Team": "Gonzaga Bulldogs",
+      "Hex_Code": "#041E42;",
+      "color_level": 1
+    },
+    {
+      "Team": "Gonzaga Bulldogs",
+      "Hex_Code": "#C8102E;",
+      "color_level": 2
+    },
+    {
+      "Team": "Gonzaga Bulldogs",
+      "Hex_Code": "#C1C6C8;",
+      "color_level": 3
+    },
+    {
+      "Team": "Grambling Tigers",
+      "Hex_Code": "#eaa921;",
+      "color_level": 1
+    },
+    {
+      "Team": "Grambling Tigers",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Grand Canyon Antelopes",
+      "Hex_Code": "#522398;",
+      "color_level": 1
+    },
+    {
+      "Team": "Grand Canyon Antelopes",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Green Bay Phoenix",
+      "Hex_Code": "#006747;",
+      "color_level": 1
+    },
+    {
+      "Team": "Green Bay Phoenix",
+      "Hex_Code": "#9D2235;",
+      "color_level": 2
+    },
+    {
+      "Team": "Green Bay Phoenix",
+      "Hex_Code": "#8A8D8F;",
+      "color_level": 3
+    },
+    {
+      "Team": "Hampton Pirates",
+      "Hex_Code": "#0060A9;",
+      "color_level": 1
+    },
+    {
+      "Team": "Hampton Pirates",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "Hartford Hawks",
+      "Hex_Code": "#c02427;",
+      "color_level": 1
+    },
+    {
+      "Team": "Hartford Hawks",
+      "Hex_Code": "#0f0708;",
+      "color_level": 2
+    },
+    {
+      "Team": "Hartford Hawks",
+      "Hex_Code": "NA",
+      "color_level": 3
+    },
+    {
+      "Team": "Harvard Crimson",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Harvard Crimson",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Harvard Crimson",
+      "Hex_Code": "#808285;",
+      "color_level": 3
+    },
+    {
+      "Team": "Harvard Crimson",
+      "Hex_Code": "#B6B6B6;",
+      "color_level": 4
+    },
+    {
+      "Team": "Hawaii Warriors",
+      "Hex_Code": "#024731;",
+      "color_level": 1
+    },
+    {
+      "Team": "Hawaii Warriors",
+      "Hex_Code": "#c8c8c8;",
+      "color_level": 2
+    },
+    {
+      "Team": "Hawaii Warriors",
+      "Hex_Code": "#00000;",
+      "color_level": 3
+    },
+    {
+      "Team": "High Point Panthers",
+      "Hex_Code": "#330072;",
+      "color_level": 1
+    },
+    {
+      "Team": "High Point Panthers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "Hofstra Pride",
+      "Hex_Code": "#0B1E73;",
+      "color_level": 1
+    },
+    {
+      "Team": "Hofstra Pride",
+      "Hex_Code": "#FEB612;",
+      "color_level": 2
+    },
+    {
+      "Team": "Hofstra Pride",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Holy Cross",
+      "Hex_Code": "#602d89;",
+      "color_level": 1
+    },
+    {
+      "Team": "Holy Cross",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Holy Cross",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Houston Baptist Huskies",
+      "Hex_Code": "#1c4e9d;",
+      "color_level": 1
+    },
+    {
+      "Team": "Houston Baptist Huskies",
+      "Hex_Code": "#f3652c;",
+      "color_level": 2
+    },
+    {
+      "Team": "Houston Baptist Huskies",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Houston Cougars",
+      "Hex_Code": "#C8102E;",
+      "color_level": 1
+    },
+    {
+      "Team": "Houston Cougars",
+      "Hex_Code": "#76232F;",
+      "color_level": 2
+    },
+    {
+      "Team": "Houston Cougars",
+      "Hex_Code": "#B2B4B2;",
+      "color_level": 3
+    },
+    {
+      "Team": "Howard Bisons",
+      "Hex_Code": "#003a63;",
+      "color_level": 1
+    },
+    {
+      "Team": "Howard Bisons",
+      "Hex_Code": "#e51937;",
+      "color_level": 2
+    },
+    {
+      "Team": "Howard Bisons",
+      "Hex_Code": "#6a808c;",
+      "color_level": 3
+    },
+    {
+      "Team": "Idaho Vandals",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Idaho Vandals",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "Idaho Vandals",
+      "Hex_Code": "NA",
+      "color_level": 3
+    },
+    {
+      "Team": "Idaho Vandals",
+      "Hex_Code": "NA",
+      "color_level": 4
+    },
+    {
+      "Team": "Idaho Vandals",
+      "Hex_Code": "#000000;",
+      "color_level": 5
+    },
+    {
+      "Team": "Idaho State Bengals",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Idaho State Bengals",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Idaho State Bengals",
+      "Hex_Code": "#F9A81A;",
+      "color_level": 3
+    },
+    {
+      "Team": "Illinois Fighting Illini",
+      "Hex_Code": "#13294b;",
+      "color_level": 1
+    },
+    {
+      "Team": "Illinois Fighting Illini",
+      "Hex_Code": "#E84A27;",
+      "color_level": 2
+    },
+    {
+      "Team": "Illinois State Redbirds",
+      "Hex_Code": "#ce1126;",
+      "color_level": 1
+    },
+    {
+      "Team": "Illinois State Redbirds",
+      "Hex_Code": "#F9DD16;",
+      "color_level": 2
+    },
+    {
+      "Team": "Illinois State Redbirds",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Illinois State Redbirds",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Incarnate Word Cardinals",
+      "Hex_Code": "#cb333b;",
+      "color_level": 1
+    },
+    {
+      "Team": "Incarnate Word Cardinals",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Indiana Hoosiers",
+      "Hex_Code": "#990000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Indiana Hoosiers",
+      "Hex_Code": "#EEEDEB;",
+      "color_level": 2
+    },
+    {
+      "Team": "Indiana State Sycamores",
+      "Hex_Code": "#0142BC;",
+      "color_level": 1
+    },
+    {
+      "Team": "Indiana State Sycamores",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Iona Gaels",
+      "Hex_Code": "#6F2C3F;",
+      "color_level": 1
+    },
+    {
+      "Team": "Iona Gaels",
+      "Hex_Code": "#F2A900;",
+      "color_level": 2
+    },
+    {
+      "Team": "Iowa Hawkeyes",
+      "Hex_Code": "#FFCD00;",
+      "color_level": 1
+    },
+    {
+      "Team": "Iowa Hawkeyes",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Iowa State Cyclones",
+      "Hex_Code": "#C8102E;",
+      "color_level": 1
+    },
+    {
+      "Team": "Iowa State Cyclones",
+      "Hex_Code": "#F1BE48;",
+      "color_level": 2
+    },
+    {
+      "Team": "IUPUI Jaguars",
+      "Hex_Code": "#9D2235;",
+      "color_level": 1
+    },
+    {
+      "Team": "IUPUI Jaguars",
+      "Hex_Code": "#DFD1A7;",
+      "color_level": 2
+    },
+    {
+      "Team": "IUPUI Jaguars",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Jackson State Tigers",
+      "Hex_Code": "#002147;",
+      "color_level": 1
+    },
+    {
+      "Team": "Jackson State Tigers",
+      "Hex_Code": "#008ED6;",
+      "color_level": 2
+    },
+    {
+      "Team": "Jackson State Tigers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Jacksonville Dolphins",
+      "Hex_Code": "#004E44;",
+      "color_level": 1
+    },
+    {
+      "Team": "Jacksonville Dolphins",
+      "Hex_Code": "#898a8d;",
+      "color_level": 2
+    },
+    {
+      "Team": "Jacksonville Dolphins",
+      "Hex_Code": "#BBBBBB;",
+      "color_level": 3
+    },
+    {
+      "Team": "Jacksonville Dolphins",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "J. State Gamecocks",
+      "Hex_Code": "#CC0000;",
+      "color_level": 1
+    },
+    {
+      "Team": "J. State Gamecocks",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "J. State Gamecocks",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "James Madison Dukes",
+      "Hex_Code": "#450084;",
+      "color_level": 1
+    },
+    {
+      "Team": "James Madison Dukes",
+      "Hex_Code": "#CBB677;",
+      "color_level": 2
+    },
+    {
+      "Team": "Kansas Jayhawks",
+      "Hex_Code": "#0051BA;",
+      "color_level": 1
+    },
+    {
+      "Team": "Kansas Jayhawks",
+      "Hex_Code": "#E8000D;",
+      "color_level": 2
+    },
+    {
+      "Team": "Kansas Jayhawks",
+      "Hex_Code": "#ffc82d;",
+      "color_level": 3
+    },
+    {
+      "Team": "Kansas Jayhawks",
+      "Hex_Code": "#85898a;",
+      "color_level": 4
+    },
+    {
+      "Team": "Kansas State Wildcats",
+      "Hex_Code": "#512888;",
+      "color_level": 1
+    },
+    {
+      "Team": "Kansas State Wildcats",
+      "Hex_Code": "#d1d1d1;",
+      "color_level": 2
+    },
+    {
+      "Team": "Kansas State Wildcats",
+      "Hex_Code": "#a7a7a7;",
+      "color_level": 3
+    },
+    {
+      "Team": "Kansas State Wildcats",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 4
+    },
+    {
+      "Team": "Kansas State Wildcats",
+      "Hex_Code": "#000000;",
+      "color_level": 5
+    },
+    {
+      "Team": "Kennesaw State Owls",
+      "Hex_Code": "#FDBB30;",
+      "color_level": 1
+    },
+    {
+      "Team": "Kennesaw State Owls",
+      "Hex_Code": "#0B1315;",
+      "color_level": 2
+    },
+    {
+      "Team": "Kennesaw State Owls",
+      "Hex_Code": "#C5C6C8;",
+      "color_level": 3
+    },
+    {
+      "Team": "Kent State Golden Flashes",
+      "Hex_Code": "#002664;",
+      "color_level": 1
+    },
+    {
+      "Team": "Kent State Golden Flashes",
+      "Hex_Code": "#EAAB00;",
+      "color_level": 2
+    },
+    {
+      "Team": "Kentucky Wildcats",
+      "Hex_Code": "#0033a0;",
+      "color_level": 1
+    },
+    {
+      "Team": "Kentucky Wildcats",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Kentucky Wildcats",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Lafayette Leopards",
+      "Hex_Code": "#a8996e;",
+      "color_level": 1
+    },
+    {
+      "Team": "Lafayette Leopards",
+      "Hex_Code": "#98002e;",
+      "color_level": 2
+    },
+    {
+      "Team": "Lafayette Leopards",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Lafayette Leopards",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Lamar Cardinals",
+      "Hex_Code": "#dc0032;",
+      "color_level": 1
+    },
+    {
+      "Team": "Lamar Cardinals",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "Lamar Cardinals",
+      "Hex_Code": "#fcb034;",
+      "color_level": 3
+    },
+    {
+      "Team": "La Salle Explorers",
+      "Hex_Code": "#ffcc00;",
+      "color_level": 1
+    },
+    {
+      "Team": "La Salle Explorers",
+      "Hex_Code": "#003366;",
+      "color_level": 2
+    },
+    {
+      "Team": "La Salle Explorers",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Lehigh Mountain Hawks",
+      "Hex_Code": "#653600;",
+      "color_level": 1
+    },
+    {
+      "Team": "Lehigh Mountain Hawks",
+      "Hex_Code": "#ffd24f;",
+      "color_level": 2
+    },
+    {
+      "Team": "Lehigh Mountain Hawks",
+      "Hex_Code": "#e51937;",
+      "color_level": 3
+    },
+    {
+      "Team": "Lehigh Mountain Hawks",
+      "Hex_Code": "#994708;",
+      "color_level": 4
+    },
+    {
+      "Team": "Lehigh Mountain Hawks",
+      "Hex_Code": "#cfab7a;",
+      "color_level": 5
+    },
+    {
+      "Team": "Lehigh Mountain Hawks",
+      "Hex_Code": "#00703c;",
+      "color_level": 6
+    },
+    {
+      "Team": "Lehigh Mountain Hawks",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 7
+    },
+    {
+      "Team": "Liberty Flames",
+      "Hex_Code": "#002d62;",
+      "color_level": 1
+    },
+    {
+      "Team": "Liberty Flames",
+      "Hex_Code": "#c41230;",
+      "color_level": 2
+    },
+    {
+      "Team": "Liberty Flames",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Liberty Flames",
+      "Hex_Code": "#c6c8ca;",
+      "color_level": 4
+    },
+    {
+      "Team": "Lipscomb Bisons",
+      "Hex_Code": "#331E54;",
+      "color_level": 1
+    },
+    {
+      "Team": "Lipscomb Bisons",
+      "Hex_Code": "#F4AA00;",
+      "color_level": 2
+    },
+    {
+      "Team": "Lipscomb Bisons",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Longwood Lancers",
+      "Hex_Code": "#15213B;",
+      "color_level": 1
+    },
+    {
+      "Team": "Longwood Lancers",
+      "Hex_Code": "#999D9E;",
+      "color_level": 2
+    },
+    {
+      "Team": "Longwood Lancers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Long Beach State 49ers",
+      "Hex_Code": "#ffc72a;",
+      "color_level": 1
+    },
+    {
+      "Team": "Long Beach State 49ers",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Long Island Sharks",
+      "Hex_Code": "#69B3E7;",
+      "color_level": 1
+    },
+    {
+      "Team": "Long Island Sharks",
+      "Hex_Code": "#FFC72C;",
+      "color_level": 2
+    },
+    {
+      "Team": "Long Island Sharks",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Louisiana-Monroe Warhawks",
+      "Hex_Code": "#800029;",
+      "color_level": 1
+    },
+    {
+      "Team": "Louisiana-Monroe Warhawks",
+      "Hex_Code": "#BD955A;",
+      "color_level": 2
+    },
+    {
+      "Team": "Louisiana-Monroe Warhawks",
+      "Hex_Code": "#646469;",
+      "color_level": 3
+    },
+    {
+      "Team": "Louisiana-Monroe Warhawks",
+      "Hex_Code": "#dad86d9;",
+      "color_level": 4
+    },
+    {
+      "Team": "Louisiana Ragin’ Cajuns",
+      "Hex_Code": "#ce181e;",
+      "color_level": 1
+    },
+    {
+      "Team": "Louisiana Ragin’ Cajuns",
+      "Hex_Code": "#0a0203;",
+      "color_level": 2
+    },
+    {
+      "Team": "Louisiana Ragin’ Cajuns",
+      "Hex_Code": "#c1c5c9;",
+      "color_level": 3
+    },
+    {
+      "Team": "Louisiana Ragin’ Cajuns",
+      "Hex_Code": "#f18c21;",
+      "color_level": 4
+    },
+    {
+      "Team": "Louisiana State Tigers",
+      "Hex_Code": "#461D7C;",
+      "color_level": 1
+    },
+    {
+      "Team": "Louisiana State Tigers",
+      "Hex_Code": "#FDD023;",
+      "color_level": 2
+    },
+    {
+      "Team": "Louisiana Tech Bulldogs",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Louisiana Tech Bulldogs",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "Louisiana Tech Bulldogs",
+      "Hex_Code": "NA",
+      "color_level": 3
+    },
+    {
+      "Team": "Louisiana Tech Bulldogs",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Louisville Cardinals",
+      "Hex_Code": "#AD0000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Louisville Cardinals",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Louisville Cardinals",
+      "Hex_Code": "#FDB913;",
+      "color_level": 3
+    },
+    {
+      "Team": "Loyola Marymount Lions",
+      "Hex_Code": "#b62b3a;",
+      "color_level": 1
+    },
+    {
+      "Team": "Loyola Marymount Lions",
+      "Hex_Code": "#00447c;",
+      "color_level": 2
+    },
+    {
+      "Team": "Loyola Marymount Lions",
+      "Hex_Code": "#617080;",
+      "color_level": 3
+    },
+    {
+      "Team": "Loyola Marymount Lions",
+      "Hex_Code": "#231f20;",
+      "color_level": 4
+    },
+    {
+      "Team": "Loyola (MD) Greyhounds",
+      "Hex_Code": "#00694e;",
+      "color_level": 1
+    },
+    {
+      "Team": "Loyola (MD) Greyhounds",
+      "Hex_Code": "#cacac8;",
+      "color_level": 2
+    },
+    {
+      "Team": "Loyola (MD) Greyhounds",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Maine Black Bears",
+      "Hex_Code": "#003263;",
+      "color_level": 1
+    },
+    {
+      "Team": "Maine Black Bears",
+      "Hex_Code": "#B0D7FF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Maine Black Bears",
+      "Hex_Code": "#AB0634;",
+      "color_level": 3
+    },
+    {
+      "Team": "Maine Black Bears",
+      "Hex_Code": "#908C89;",
+      "color_level": 4
+    },
+    {
+      "Team": "Maine Black Bears",
+      "Hex_Code": "#000000;",
+      "color_level": 5
+    },
+    {
+      "Team": "Maine Black Bears",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 6
+    },
+    {
+      "Team": "Manhattan",
+      "Hex_Code": "#00703C;",
+      "color_level": 1
+    },
+    {
+      "Team": "Manhattan",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Marist Red Foxes",
+      "Hex_Code": "#C8102E;",
+      "color_level": 1
+    },
+    {
+      "Team": "Marist Red Foxes",
+      "Hex_Code": "#b2b2b2;",
+      "color_level": 2
+    },
+    {
+      "Team": "Marist Red Foxes",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Marist Red Foxes",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 4
+    },
+    {
+      "Team": "Marshall Thundering Herd",
+      "Hex_Code": "#00B140;",
+      "color_level": 1
+    },
+    {
+      "Team": "Marshall Thundering Herd",
+      "Hex_Code": "#A2AAAD;",
+      "color_level": 2
+    },
+    {
+      "Team": "Marshall Thundering Herd",
+      "Hex_Code": "#693F23;",
+      "color_level": 3
+    },
+    {
+      "Team": "Marshall Thundering Herd",
+      "Hex_Code": "#AD7C59;",
+      "color_level": 4
+    },
+    {
+      "Team": "Marshall Thundering Herd",
+      "Hex_Code": "#27251F;",
+      "color_level": 5
+    },
+    {
+      "Team": "Marquette Golden Eagles",
+      "Hex_Code": "#003366;",
+      "color_level": 1
+    },
+    {
+      "Team": "Marquette Golden Eagles",
+      "Hex_Code": "#ffcc00;",
+      "color_level": 2
+    },
+    {
+      "Team": "Maryland E.S. Hawks",
+      "Hex_Code": "#862633;",
+      "color_level": 1
+    },
+    {
+      "Team": "Maryland E.S. Hawks",
+      "Hex_Code": "#888B8D;",
+      "color_level": 2
+    },
+    {
+      "Team": "Maryland E.S. Hawks",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Maryland Terrapins",
+      "Hex_Code": "#E03a3e;",
+      "color_level": 1
+    },
+    {
+      "Team": "Maryland Terrapins",
+      "Hex_Code": "#ffd520;",
+      "color_level": 2
+    },
+    {
+      "Team": "Maryland Terrapins",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Maryland Terrapins",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "McNeese Cowboys",
+      "Hex_Code": "#00529b;",
+      "color_level": 1
+    },
+    {
+      "Team": "McNeese Cowboys",
+      "Hex_Code": "#ffd204;",
+      "color_level": 2
+    },
+    {
+      "Team": "Memphis Tigers",
+      "Hex_Code": "#003087;",
+      "color_level": 1
+    },
+    {
+      "Team": "Memphis Tigers",
+      "Hex_Code": "#898D8D;",
+      "color_level": 2
+    },
+    {
+      "Team": "Mercer Bears",
+      "Hex_Code": "#f76800;",
+      "color_level": 1
+    },
+    {
+      "Team": "Mercer Bears",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Merrimack Warriors",
+      "Hex_Code": "#003768;",
+      "color_level": 1
+    },
+    {
+      "Team": "Merrimack Warriors",
+      "Hex_Code": "#fdb813;",
+      "color_level": 2
+    },
+    {
+      "Team": "Miami (FL) Hurricanes",
+      "Hex_Code": "#F47321;",
+      "color_level": 1
+    },
+    {
+      "Team": "Miami (FL) Hurricanes",
+      "Hex_Code": "#005030;",
+      "color_level": 2
+    },
+    {
+      "Team": "Miami (FL) Hurricanes",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Miami (OH) Redhawks",
+      "Hex_Code": "#b61e2e;",
+      "color_level": 1
+    },
+    {
+      "Team": "Miami (OH) Redhawks",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Miami (OH) Redhawks",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Michigan Wolverines",
+      "Hex_Code": "#00274c;",
+      "color_level": 1
+    },
+    {
+      "Team": "Michigan Wolverines",
+      "Hex_Code": "#ffcb05;",
+      "color_level": 2
+    },
+    {
+      "Team": "Michigan State Spartans",
+      "Hex_Code": "#18453B;",
+      "color_level": 1
+    },
+    {
+      "Team": "Michigan State Spartans",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Middle Tennessee Blue Raiders",
+      "Hex_Code": "#000000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Middle Tennessee Blue Raiders",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "Middle Tennessee Blue Raiders",
+      "Hex_Code": "NA",
+      "color_level": 3
+    },
+    {
+      "Team": "Milwaukee Panthers",
+      "Hex_Code": "#FFBD00;",
+      "color_level": 1
+    },
+    {
+      "Team": "Milwaukee Panthers",
+      "Hex_Code": "#CCCCCC;",
+      "color_level": 2
+    },
+    {
+      "Team": "Milwaukee Panthers",
+      "Hex_Code": "NA",
+      "color_level": 3
+    },
+    {
+      "Team": "Minnesota Golden Gophers",
+      "Hex_Code": "#7A0019;",
+      "color_level": 1
+    },
+    {
+      "Team": "Minnesota Golden Gophers",
+      "Hex_Code": "#FFCC33;",
+      "color_level": 2
+    },
+    {
+      "Team": "Mississippi Delta Devils",
+      "Hex_Code": "#00703c;",
+      "color_level": 1
+    },
+    {
+      "Team": "Mississippi Delta Devils",
+      "Hex_Code": "#e51937;",
+      "color_level": 2
+    },
+    {
+      "Team": "Mississippi Delta Devils",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Missouri State Bears",
+      "Hex_Code": "#5E0009;",
+      "color_level": 1
+    },
+    {
+      "Team": "Missouri State Bears",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Missouri State Bears",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Mississippi State Bulldogs",
+      "Hex_Code": "#660000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Mississippi State Bulldogs",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "Mississippi State Bulldogs",
+      "Hex_Code": "#CCCCCC;",
+      "color_level": 3
+    },
+    {
+      "Team": "Mississippi State Bulldogs",
+      "Hex_Code": "#75787B;",
+      "color_level": 4
+    },
+    {
+      "Team": "Missouri Tigers",
+      "Hex_Code": "#000000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Missouri Tigers",
+      "Hex_Code": "#F1B82D;",
+      "color_level": 2
+    },
+    {
+      "Team": "Monmouth Hawks",
+      "Hex_Code": "#041E42;",
+      "color_level": 1
+    },
+    {
+      "Team": "Monmouth Hawks",
+      "Hex_Code": "#53565A;",
+      "color_level": 2
+    },
+    {
+      "Team": "Monmouth Hawks",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Montana Grizzlies",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Montana Grizzlies",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "Montana State Bobcats",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Montana State Bobcats",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "Morgan State Bears",
+      "Hex_Code": "#1b4383;",
+      "color_level": 1
+    },
+    {
+      "Team": "Morgan State Bears",
+      "Hex_Code": "#f47937;",
+      "color_level": 2
+    },
+    {
+      "Team": "Morgan State Bears",
+      "Hex_Code": "#CDA177;",
+      "color_level": 3
+    },
+    {
+      "Team": "Morgan State Bears",
+      "Hex_Code": "#FFBF3F;",
+      "color_level": 4
+    },
+    {
+      "Team": "Morgan State Bears",
+      "Hex_Code": "#ffffff;",
+      "color_level": 5
+    },
+    {
+      "Team": "Morgan State Bears",
+      "Hex_Code": "#000000;",
+      "color_level": 6
+    },
+    {
+      "Team": "Morehead State Eagles",
+      "Hex_Code": "#FFCF00;",
+      "color_level": 1
+    },
+    {
+      "Team": "Morehead State Eagles",
+      "Hex_Code": "#005EB8;",
+      "color_level": 2
+    },
+    {
+      "Team": "Morehead State Eagles",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Morehead State Eagles",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Murray State Racers",
+      "Hex_Code": "#ECAC00;",
+      "color_level": 1
+    },
+    {
+      "Team": "Murray State Racers",
+      "Hex_Code": "#002144;",
+      "color_level": 2
+    },
+    {
+      "Team": "Murray State Racers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Navy Midshipmen",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Navy Midshipmen",
+      "Hex_Code": "#C5B783;",
+      "color_level": 2
+    },
+    {
+      "Team": "Nebraska Cornhuskers",
+      "Hex_Code": "#e41c38;",
+      "color_level": 1
+    },
+    {
+      "Team": "Nebraska Cornhuskers",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Nebraska Cornhuskers",
+      "Hex_Code": "#fdf2d9;",
+      "color_level": 3
+    },
+    {
+      "Team": "Nebraska Cornhuskers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 4
+    },
+    {
+      "Team": "Nevada Wolfpack",
+      "Hex_Code": "#003366;",
+      "color_level": 1
+    },
+    {
+      "Team": "Nevada Wolfpack",
+      "Hex_Code": "#807f84;",
+      "color_level": 2
+    },
+    {
+      "Team": "New Hampshire Wildcats",
+      "Hex_Code": "#041e42;",
+      "color_level": 1
+    },
+    {
+      "Team": "New Hampshire Wildcats",
+      "Hex_Code": "#BBBCBC;",
+      "color_level": 2
+    },
+    {
+      "Team": "New Hampshire Wildcats",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "New Mexico Lobos",
+      "Hex_Code": "#BA0C2F;",
+      "color_level": 1
+    },
+    {
+      "Team": "New Mexico Lobos",
+      "Hex_Code": "#a7a8aa;",
+      "color_level": 2
+    },
+    {
+      "Team": "New Mexico Lobos",
+      "Hex_Code": "#63666A;",
+      "color_level": 3
+    },
+    {
+      "Team": "New Mexico Lobos",
+      "Hex_Code": "#007A86;",
+      "color_level": 4
+    },
+    {
+      "Team": "New Mexico Lobos",
+      "Hex_Code": "#000000;",
+      "color_level": 5
+    },
+    {
+      "Team": "New Mexico State Aggies",
+      "Hex_Code": "#861F41;",
+      "color_level": 1
+    },
+    {
+      "Team": "New Mexico State Aggies",
+      "Hex_Code": "#97999B;",
+      "color_level": 2
+    },
+    {
+      "Team": "New Mexico State Aggies",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "New Orleans Privateers",
+      "Hex_Code": "#005ca6;",
+      "color_level": 1
+    },
+    {
+      "Team": "New Orleans Privateers",
+      "Hex_Code": "#a3a9ac;",
+      "color_level": 2
+    },
+    {
+      "Team": "New Orleans Privateers",
+      "Hex_Code": "#002f56;",
+      "color_level": 3
+    },
+    {
+      "Team": "Niagara Purple Eagles",
+      "Hex_Code": "#582C83;",
+      "color_level": 1
+    },
+    {
+      "Team": "Niagara Purple Eagles",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Nicholls Colonels",
+      "Hex_Code": "#ae132a;",
+      "color_level": 1
+    },
+    {
+      "Team": "Nicholls Colonels",
+      "Hex_Code": "#72808a;",
+      "color_level": 2
+    },
+    {
+      "Team": "Nicholls Colonels",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Nicholls Colonels",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "NJIT Highlanders",
+      "Hex_Code": "#D22630;",
+      "color_level": 1
+    },
+    {
+      "Team": "NJIT Highlanders",
+      "Hex_Code": "#071D49;",
+      "color_level": 2
+    },
+    {
+      "Team": "NJIT Highlanders",
+      "Hex_Code": "#C1C6C8;",
+      "color_level": 3
+    },
+    {
+      "Team": "NJIT Highlanders",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 4
+    },
+    {
+      "Team": "Norfolk State Spartans",
+      "Hex_Code": "#007A53;",
+      "color_level": 1
+    },
+    {
+      "Team": "Norfolk State Spartans",
+      "Hex_Code": "#F3D03E;",
+      "color_level": 2
+    },
+    {
+      "Team": "Norfolk State Spartans",
+      "Hex_Code": "#54585A;",
+      "color_level": 3
+    },
+    {
+      "Team": "North Alabama Lions",
+      "Hex_Code": "#46166B;",
+      "color_level": 1
+    },
+    {
+      "Team": "North Alabama Lions",
+      "Hex_Code": "#DB9F11;",
+      "color_level": 2
+    },
+    {
+      "Team": "North Alabama Lions",
+      "Hex_Code": "#5F6062;",
+      "color_level": 3
+    },
+    {
+      "Team": "North Carolina Aggies",
+      "Hex_Code": "#f3b237;",
+      "color_level": 1
+    },
+    {
+      "Team": "North Carolina Aggies",
+      "Hex_Code": "#003d6d;",
+      "color_level": 2
+    },
+    {
+      "Team": "North Carolina Aggies",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "North Carolina Eagles",
+      "Hex_Code": "#880023;",
+      "color_level": 1
+    },
+    {
+      "Team": "North Carolina Eagles",
+      "Hex_Code": "#8e9093;",
+      "color_level": 2
+    },
+    {
+      "Team": "North Carolina Eagles",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "North Carolina Tar Heels",
+      "Hex_Code": "#7BAFD4;",
+      "color_level": 1
+    },
+    {
+      "Team": "North Carolina Tar Heels",
+      "Hex_Code": "#FFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "North Carolina Tar Heels",
+      "Hex_Code": "#13294B;",
+      "color_level": 3
+    },
+    {
+      "Team": "North Carolina Tar Heels",
+      "Hex_Code": "#000;",
+      "color_level": 4
+    },
+    {
+      "Team": "North Carolina Tar Heels",
+      "Hex_Code": "#8D9092;",
+      "color_level": 5
+    },
+    {
+      "Team": "North Carolina Tar Heels",
+      "Hex_Code": "#A2AAAD;",
+      "color_level": 6
+    },
+    {
+      "Team": "North Dakota Fighting Hawks",
+      "Hex_Code": "#009A44;",
+      "color_level": 1
+    },
+    {
+      "Team": "North Dakota Fighting Hawks",
+      "Hex_Code": "#AAAEAD;",
+      "color_level": 2
+    },
+    {
+      "Team": "North Dakota Fighting Hawks",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "North Dakota State Bison",
+      "Hex_Code": "#0a5640;",
+      "color_level": 1
+    },
+    {
+      "Team": "North Dakota State Bison",
+      "Hex_Code": "#ffc72a;",
+      "color_level": 2
+    },
+    {
+      "Team": "Northeastern Huskies",
+      "Hex_Code": "#D41B2C;",
+      "color_level": 1
+    },
+    {
+      "Team": "Northeastern Huskies",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Northeastern Huskies",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "North Texas Mean Green",
+      "Hex_Code": "#00853E;",
+      "color_level": 1
+    },
+    {
+      "Team": "North Texas Mean Green",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Northern Illinois",
+      "Hex_Code": "#BA0C2F;",
+      "color_level": 1
+    },
+    {
+      "Team": "Northern Illinois",
+      "Hex_Code": "#8A8D8F;",
+      "color_level": 2
+    },
+    {
+      "Team": "Northern Illinois",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Northern Iowa",
+      "Hex_Code": "#4B116F;",
+      "color_level": 1
+    },
+    {
+      "Team": "Northern Iowa",
+      "Hex_Code": "#FFCC00;",
+      "color_level": 2
+    },
+    {
+      "Team": "Northern Kentucky Norse",
+      "Hex_Code": "#FFC72C;",
+      "color_level": 1
+    },
+    {
+      "Team": "Northern Kentucky Norse",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Northern Kentucky Norse",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Northern Arizona Lumberjacks",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Northern Arizona Lumberjacks",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "Northern Arizona Lumberjacks",
+      "Hex_Code": "NA",
+      "color_level": 3
+    },
+    {
+      "Team": "Northern Colorado Bears",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Northern Colorado Bears",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "North Florida Ospreys",
+      "Hex_Code": "#00246B;",
+      "color_level": 1
+    },
+    {
+      "Team": "North Florida Ospreys",
+      "Hex_Code": "#D9D9D9;",
+      "color_level": 2
+    },
+    {
+      "Team": "North Florida Ospreys",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "NC State Wolfpack",
+      "Hex_Code": "#CC0000;",
+      "color_level": 1
+    },
+    {
+      "Team": "NC State Wolfpack",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "NC State Wolfpack",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "N.S. Demons",
+      "Hex_Code": "#663399;",
+      "color_level": 1
+    },
+    {
+      "Team": "N.S. Demons",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "N.S. Demons",
+      "Hex_Code": "#ff6600;",
+      "color_level": 3
+    },
+    {
+      "Team": "Northwestern Wildcats",
+      "Hex_Code": "#4E2A84;",
+      "color_level": 1
+    },
+    {
+      "Team": "Northwestern Wildcats",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Notre Dame Fighting Irish",
+      "Hex_Code": "#0C2340;",
+      "color_level": 1
+    },
+    {
+      "Team": "Notre Dame Fighting Irish",
+      "Hex_Code": "#c99700;",
+      "color_level": 2
+    },
+    {
+      "Team": "Notre Dame Fighting Irish",
+      "Hex_Code": "#Ae9142;",
+      "color_level": 3
+    },
+    {
+      "Team": "Notre Dame Fighting Irish",
+      "Hex_Code": "#00843d;",
+      "color_level": 4
+    },
+    {
+      "Team": "Oakland Golden Grizzlies",
+      "Hex_Code": "#B59A57;",
+      "color_level": 1
+    },
+    {
+      "Team": "Oakland Golden Grizzlies",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Oakland Golden Grizzlies",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Ohio Bobcats",
+      "Hex_Code": "#00694E;",
+      "color_level": 1
+    },
+    {
+      "Team": "Ohio Bobcats",
+      "Hex_Code": "#CDA077;",
+      "color_level": 2
+    },
+    {
+      "Team": "Ohio Bobcats",
+      "Hex_Code": "NA",
+      "color_level": 3
+    },
+    {
+      "Team": "Ohio State Buckeyes",
+      "Hex_Code": "#BB0000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Ohio State Buckeyes",
+      "Hex_Code": "#666666;",
+      "color_level": 2
+    },
+    {
+      "Team": "Ohio State Buckeyes",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Ohio State Buckeyes",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Oklahoma Sooners",
+      "Hex_Code": "#841617;",
+      "color_level": 1
+    },
+    {
+      "Team": "Oklahoma Sooners",
+      "Hex_Code": "#FDF9D8;",
+      "color_level": 2
+    },
+    {
+      "Team": "Oklahoma State Cowboys",
+      "Hex_Code": "#FF7300;",
+      "color_level": 1
+    },
+    {
+      "Team": "Oklahoma State Cowboys",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Old Dominion",
+      "Hex_Code": "#003057;",
+      "color_level": 1
+    },
+    {
+      "Team": "Old Dominion",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "Old Dominion",
+      "Hex_Code": "NA",
+      "color_level": 3
+    },
+    {
+      "Team": "Ole Miss Rebels",
+      "Hex_Code": "#CE1126;",
+      "color_level": 1
+    },
+    {
+      "Team": "Ole Miss Rebels",
+      "Hex_Code": "#14213D;",
+      "color_level": 2
+    },
+    {
+      "Team": "Ole Miss Rebels",
+      "Hex_Code": "#006BA6;",
+      "color_level": 3
+    },
+    {
+      "Team": "Ole Miss Rebels",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 4
+    },
+    {
+      "Team": "Omaha Mavericks",
+      "Hex_Code": "#000000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Omaha Mavericks",
+      "Hex_Code": "#D71920;",
+      "color_level": 2
+    },
+    {
+      "Team": "Omaha Mavericks",
+      "Hex_Code": "#636568;",
+      "color_level": 3
+    },
+    {
+      "Team": "Oral Roberts",
+      "Hex_Code": "#002f60;",
+      "color_level": 1
+    },
+    {
+      "Team": "Oral Roberts",
+      "Hex_Code": "#C5b783;",
+      "color_level": 2
+    },
+    {
+      "Team": "Oral Roberts",
+      "Hex_Code": "#A28E2A;",
+      "color_level": 3
+    },
+    {
+      "Team": "Oregon Ducks",
+      "Hex_Code": "#154733;",
+      "color_level": 1
+    },
+    {
+      "Team": "Oregon Ducks",
+      "Hex_Code": "#FEE123;",
+      "color_level": 2
+    },
+    {
+      "Team": "Oregon State Beavers",
+      "Hex_Code": "#dc4405;",
+      "color_level": 1
+    },
+    {
+      "Team": "Oregon State Beavers",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Oregon State Beavers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Pacific Tigers",
+      "Hex_Code": "#E35205;",
+      "color_level": 1
+    },
+    {
+      "Team": "Pacific Tigers",
+      "Hex_Code": "#231f20;",
+      "color_level": 2
+    },
+    {
+      "Team": "Pacific Tigers",
+      "Hex_Code": "#D86018;",
+      "color_level": 3
+    },
+    {
+      "Team": "Pacific Tigers",
+      "Hex_Code": "#949A90;",
+      "color_level": 4
+    },
+    {
+      "Team": "Penn Quakers",
+      "Hex_Code": "#990000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Penn Quakers",
+      "Hex_Code": "#011F5B;",
+      "color_level": 2
+    },
+    {
+      "Team": "Penn Quakers",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Penn State Nittany Lions",
+      "Hex_Code": "#041E42;",
+      "color_level": 1
+    },
+    {
+      "Team": "Penn State Nittany Lions",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Pepperdine Waves",
+      "Hex_Code": "#00205c;",
+      "color_level": 1
+    },
+    {
+      "Team": "Pepperdine Waves",
+      "Hex_Code": "#ee7624;",
+      "color_level": 2
+    },
+    {
+      "Team": "Pittsburgh Panthers",
+      "Hex_Code": "#003594;",
+      "color_level": 1
+    },
+    {
+      "Team": "Pittsburgh Panthers",
+      "Hex_Code": "#FFB81C;",
+      "color_level": 2
+    },
+    {
+      "Team": "Pittsburgh Panthers",
+      "Hex_Code": "#1c2957;",
+      "color_level": 3
+    },
+    {
+      "Team": "Pittsburgh Panthers",
+      "Hex_Code": "#cdb87d;",
+      "color_level": 4
+    },
+    {
+      "Team": "Portland Pilots",
+      "Hex_Code": "#1e1656;",
+      "color_level": 1
+    },
+    {
+      "Team": "Portland Pilots",
+      "Hex_Code": "#5e6A71;",
+      "color_level": 2
+    },
+    {
+      "Team": "Portland State Vikings",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Portland State Vikings",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Portland State Vikings",
+      "Hex_Code": "NA",
+      "color_level": 3
+    },
+    {
+      "Team": "Portland State Vikings",
+      "Hex_Code": "NA",
+      "color_level": 4
+    },
+    {
+      "Team": "Portland State Vikings",
+      "Hex_Code": "#000000;",
+      "color_level": 5
+    },
+    {
+      "Team": "Prairie View Panthers",
+      "Hex_Code": "#330066;",
+      "color_level": 1
+    },
+    {
+      "Team": "Prairie View Panthers",
+      "Hex_Code": "#ffcc33;",
+      "color_level": 2
+    },
+    {
+      "Team": "Prairie View Panthers",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Presbyterian Blue Hose",
+      "Hex_Code": "#0060A9;",
+      "color_level": 1
+    },
+    {
+      "Team": "Presbyterian Blue Hose",
+      "Hex_Code": "#9D2235;",
+      "color_level": 2
+    },
+    {
+      "Team": "Presbyterian Blue Hose",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Princeton Tigers",
+      "Hex_Code": "#FF671F;",
+      "color_level": 1
+    },
+    {
+      "Team": "Princeton Tigers",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Providence Friars",
+      "Hex_Code": "#8a8d8f;",
+      "color_level": 1
+    },
+    {
+      "Team": "Providence Friars",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Providence Friars",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Purdue Boilermakers",
+      "Hex_Code": "#ceb888;",
+      "color_level": 1
+    },
+    {
+      "Team": "Purdue Boilermakers",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Purdue Boilermakers",
+      "Hex_Code": "#9d968D;",
+      "color_level": 3
+    },
+    {
+      "Team": "Purdue Boilermakers",
+      "Hex_Code": "#373A36;",
+      "color_level": 4
+    },
+    {
+      "Team": "Purdue Boilermakers",
+      "Hex_Code": "#C28E0E;",
+      "color_level": 5
+    },
+    {
+      "Team": "Radford Highlanders",
+      "Hex_Code": "#c2011b;",
+      "color_level": 1
+    },
+    {
+      "Team": "Radford Highlanders",
+      "Hex_Code": "#d1d3d4;",
+      "color_level": 2
+    },
+    {
+      "Team": "Radford Highlanders",
+      "Hex_Code": "#003C71;",
+      "color_level": 3
+    },
+    {
+      "Team": "Radford Highlanders",
+      "Hex_Code": "#ffffff;",
+      "color_level": 4
+    },
+    {
+      "Team": "Rhode Island Rams",
+      "Hex_Code": "#68abe8;",
+      "color_level": 1
+    },
+    {
+      "Team": "Rhode Island Rams",
+      "Hex_Code": "#002147;",
+      "color_level": 2
+    },
+    {
+      "Team": "Rhode Island Rams",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Richmond Spiders",
+      "Hex_Code": "#000066;",
+      "color_level": 1
+    },
+    {
+      "Team": "Richmond Spiders",
+      "Hex_Code": "#990000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Rice Owls",
+      "Hex_Code": "#00205B;",
+      "color_level": 1
+    },
+    {
+      "Team": "Rice Owls",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "Rider Broncs",
+      "Hex_Code": "#981E32;",
+      "color_level": 1
+    },
+    {
+      "Team": "Rider Broncs",
+      "Hex_Code": "#6C6F70;",
+      "color_level": 2
+    },
+    {
+      "Team": "Rider Broncs",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Rutgers Scarlet Knights",
+      "Hex_Code": "#cc0033;",
+      "color_level": 1
+    },
+    {
+      "Team": "Rutgers Scarlet Knights",
+      "Hex_Code": "#5F6A72;",
+      "color_level": 2
+    },
+    {
+      "Team": "Rutgers Scarlet Knights",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Robert Morris Colonials",
+      "Hex_Code": "#14234b;",
+      "color_level": 1
+    },
+    {
+      "Team": "Robert Morris Colonials",
+      "Hex_Code": "#a6192e;",
+      "color_level": 2
+    },
+    {
+      "Team": "Robert Morris Colonials",
+      "Hex_Code": "#b2b1ae;",
+      "color_level": 3
+    },
+    {
+      "Team": "Robert Morris Colonials",
+      "Hex_Code": "#ffffff;",
+      "color_level": 4
+    },
+    {
+      "Team": "Sacramento State Hornets",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Sacramento State Hornets",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "Sacred Heart Pioneers",
+      "Hex_Code": "#ce1141;",
+      "color_level": 1
+    },
+    {
+      "Team": "Sacred Heart Pioneers",
+      "Hex_Code": "#b1b3b6;",
+      "color_level": 2
+    },
+    {
+      "Team": "Sacred Heart Pioneers",
+      "Hex_Code": "#4d4d4f;",
+      "color_level": 3
+    },
+    {
+      "Team": "Sacred Heart Pioneers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 4
+    },
+    {
+      "Team": "Samford Bulldogs",
+      "Hex_Code": "#002649;",
+      "color_level": 1
+    },
+    {
+      "Team": "Samford Bulldogs",
+      "Hex_Code": "#C4161D;",
+      "color_level": 2
+    },
+    {
+      "Team": "S.H.S. Bearkats",
+      "Hex_Code": "#fe5100;",
+      "color_level": 1
+    },
+    {
+      "Team": "S.H.S. Bearkats",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "Saint Mary’s Gaels",
+      "Hex_Code": "#D80024;",
+      "color_level": 1
+    },
+    {
+      "Team": "Saint Mary’s Gaels",
+      "Hex_Code": "#06315B;",
+      "color_level": 2
+    },
+    {
+      "Team": "San Diego Toreros",
+      "Hex_Code": "#002868;",
+      "color_level": 1
+    },
+    {
+      "Team": "San Diego Toreros",
+      "Hex_Code": "#84bce8;",
+      "color_level": 2
+    },
+    {
+      "Team": "San Diego Toreros",
+      "Hex_Code": "#207bc1;",
+      "color_level": 3
+    },
+    {
+      "Team": "San Diego State Aztecs",
+      "Hex_Code": "#a6192e;",
+      "color_level": 1
+    },
+    {
+      "Team": "San Diego State Aztecs",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "San Diego State Aztecs",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "San Francisco Dons",
+      "Hex_Code": "#FDBB30;",
+      "color_level": 1
+    },
+    {
+      "Team": "San Francisco Dons",
+      "Hex_Code": "#00543C;",
+      "color_level": 2
+    },
+    {
+      "Team": "San Francisco Dons",
+      "Hex_Code": "#919194;",
+      "color_level": 3
+    },
+    {
+      "Team": "San Jose State Spartans",
+      "Hex_Code": "#0055A2;",
+      "color_level": 1
+    },
+    {
+      "Team": "San Jose State Spartans",
+      "Hex_Code": "#E5A823;",
+      "color_level": 2
+    },
+    {
+      "Team": "San Jose State Spartans",
+      "Hex_Code": "#939597;",
+      "color_level": 3
+    },
+    {
+      "Team": "Santa Clara",
+      "Hex_Code": "#862633;",
+      "color_level": 1
+    },
+    {
+      "Team": "Seattle Redhawks",
+      "Hex_Code": "#AA0000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Seattle Redhawks",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Seton Hall Pirates",
+      "Hex_Code": "#004488;",
+      "color_level": 1
+    },
+    {
+      "Team": "Seton Hall Pirates",
+      "Hex_Code": "#A2AAAD;",
+      "color_level": 2
+    },
+    {
+      "Team": "SE Louisiana Lions",
+      "Hex_Code": "#006341;",
+      "color_level": 1
+    },
+    {
+      "Team": "SE Louisiana Lions",
+      "Hex_Code": "#eaaa00;",
+      "color_level": 2
+    },
+    {
+      "Team": "SE Louisiana Lions",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "SE M.S. Redhawks",
+      "Hex_Code": "#000000;",
+      "color_level": 1
+    },
+    {
+      "Team": "SE M.S. Redhawks",
+      "Hex_Code": "#C8102E;",
+      "color_level": 2
+    },
+    {
+      "Team": "SE M.S. Redhawks",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Siena Saints",
+      "Hex_Code": "#FFC72C;",
+      "color_level": 1
+    },
+    {
+      "Team": "Siena Saints",
+      "Hex_Code": "#C8102E;",
+      "color_level": 2
+    },
+    {
+      "Team": "Siena Saints",
+      "Hex_Code": "#006747;",
+      "color_level": 3
+    },
+    {
+      "Team": "Siena Saints",
+      "Hex_Code": "#693F23;",
+      "color_level": 4
+    },
+    {
+      "Team": "Siena Saints",
+      "Hex_Code": "NA",
+      "color_level": 5
+    },
+    {
+      "Team": "SIUE Cougars",
+      "Hex_Code": "#ef3829;",
+      "color_level": 1
+    },
+    {
+      "Team": "SIUE Cougars",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "SIUE Cougars",
+      "Hex_Code": "#cfaa7a;",
+      "color_level": 3
+    },
+    {
+      "Team": "SIUE Cougars",
+      "Hex_Code": "#a68462;",
+      "color_level": 4
+    },
+    {
+      "Team": "SIUE Cougars",
+      "Hex_Code": "#896532;",
+      "color_level": 5
+    },
+    {
+      "Team": "SIUE Cougars",
+      "Hex_Code": "#5a471c;",
+      "color_level": 6
+    },
+    {
+      "Team": "SIUE Cougars",
+      "Hex_Code": "#000000;",
+      "color_level": 7
+    },
+    {
+      "Team": "SMU Mustangs",
+      "Hex_Code": "#0033A0;",
+      "color_level": 1
+    },
+    {
+      "Team": "SMU Mustangs",
+      "Hex_Code": "#C8102E;",
+      "color_level": 2
+    },
+    {
+      "Team": "South Carolina Gamecocks",
+      "Hex_Code": "#73000A;",
+      "color_level": 1
+    },
+    {
+      "Team": "South Carolina Gamecocks",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "South Carolina Upstate Spartans",
+      "Hex_Code": "#00703c;",
+      "color_level": 1
+    },
+    {
+      "Team": "South Carolina Upstate Spartans",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "South Carolina Upstate Spartans",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "South Carolina Bulldogs",
+      "Hex_Code": "#862633;",
+      "color_level": 1
+    },
+    {
+      "Team": "South Carolina Bulldogs",
+      "Hex_Code": "#001A72;",
+      "color_level": 2
+    },
+    {
+      "Team": "South Carolina Bulldogs",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "South Alabama Jaguars",
+      "Hex_Code": "#00205B;",
+      "color_level": 1
+    },
+    {
+      "Team": "South Alabama Jaguars",
+      "Hex_Code": "#BF0D3E;",
+      "color_level": 2
+    },
+    {
+      "Team": "South Dakota Coyotes",
+      "Hex_Code": "#ad0000;",
+      "color_level": 1
+    },
+    {
+      "Team": "South Dakota Coyotes",
+      "Hex_Code": "#b4b4b4;",
+      "color_level": 2
+    },
+    {
+      "Team": "South Dakota Coyotes",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "South Dakota State Jackrabbits",
+      "Hex_Code": "#0033A0;",
+      "color_level": 1
+    },
+    {
+      "Team": "South Dakota State Jackrabbits",
+      "Hex_Code": "#FFD100;",
+      "color_level": 2
+    },
+    {
+      "Team": "South Florida Bulls",
+      "Hex_Code": "#006747;",
+      "color_level": 1
+    },
+    {
+      "Team": "South Florida Bulls",
+      "Hex_Code": "#CFC493;",
+      "color_level": 2
+    },
+    {
+      "Team": "Southern Illinois",
+      "Hex_Code": "#720000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Southern Illinois",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Southern Illinois",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Southern Miss Golden Eagles",
+      "Hex_Code": "#000000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Southern Miss Golden Eagles",
+      "Hex_Code": "#FFAB00;",
+      "color_level": 2
+    },
+    {
+      "Team": "Southern Jaguars",
+      "Hex_Code": "#58b6e7;",
+      "color_level": 1
+    },
+    {
+      "Team": "Southern Jaguars",
+      "Hex_Code": "#ffce34;",
+      "color_level": 2
+    },
+    {
+      "Team": "Southern Utah Thunderbirds",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Southern Utah Thunderbirds",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "Southern Utah Thunderbirds",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Stanford Cardinal",
+      "Hex_Code": "#8C1515;",
+      "color_level": 1
+    },
+    {
+      "Team": "Stanford Cardinal",
+      "Hex_Code": "#4D4F53;",
+      "color_level": 2
+    },
+    {
+      "Team": "Stanford Cardinal",
+      "Hex_Code": "#2e2d29;",
+      "color_level": 3
+    },
+    {
+      "Team": "Stanford Cardinal",
+      "Hex_Code": "#ffffff;",
+      "color_level": 4
+    },
+    {
+      "Team": "Stephen F.A. Lumberjacks",
+      "Hex_Code": "#613393;",
+      "color_level": 1
+    },
+    {
+      "Team": "Stephen F.A. Lumberjacks",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "St. Bonaventure Bonnies",
+      "Hex_Code": "#54261a;",
+      "color_level": 1
+    },
+    {
+      "Team": "St. Bonaventure Bonnies",
+      "Hex_Code": "#fdb726;",
+      "color_level": 2
+    },
+    {
+      "Team": "St. Bonaventure Bonnies",
+      "Hex_Code": "#bdb6b0;",
+      "color_level": 3
+    },
+    {
+      "Team": "St.Francis Terriers",
+      "Hex_Code": "#005496;",
+      "color_level": 1
+    },
+    {
+      "Team": "St.Francis Terriers",
+      "Hex_Code": "#e03a3e;",
+      "color_level": 2
+    },
+    {
+      "Team": "St.Francis Terriers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "St.Francis Red Flash",
+      "Hex_Code": "#bd1f25;",
+      "color_level": 1
+    },
+    {
+      "Team": "St.Francis Red Flash",
+      "Hex_Code": "#790000;",
+      "color_level": 2
+    },
+    {
+      "Team": "St.Francis Red Flash",
+      "Hex_Code": "#8e908f;",
+      "color_level": 3
+    },
+    {
+      "Team": "St.Francis Red Flash",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Stetson Hatters",
+      "Hex_Code": "#006747;",
+      "color_level": 1
+    },
+    {
+      "Team": "Stetson Hatters",
+      "Hex_Code": "#B58150;",
+      "color_level": 2
+    },
+    {
+      "Team": "Stetson Hatters",
+      "Hex_Code": "#9E652E;",
+      "color_level": 3
+    },
+    {
+      "Team": "Stetson Hatters",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Stetson Hatters",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 5
+    },
+    {
+      "Team": "St. John’s Red Storm",
+      "Hex_Code": "#BA0C2F;",
+      "color_level": 1
+    },
+    {
+      "Team": "St. John’s Red Storm",
+      "Hex_Code": "#041C2C;",
+      "color_level": 2
+    },
+    {
+      "Team": "St. John’s Red Storm",
+      "Hex_Code": "#A7A8AA;",
+      "color_level": 3
+    },
+    {
+      "Team": "St. John’s Red Storm",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 4
+    },
+    {
+      "Team": "St. Joseph’s Hawks",
+      "Hex_Code": "#9e1b32;",
+      "color_level": 1
+    },
+    {
+      "Team": "St. Joseph’s Hawks",
+      "Hex_Code": "#6c6f70;",
+      "color_level": 2
+    },
+    {
+      "Team": "St. Louis Billikens",
+      "Hex_Code": "#003DA5;",
+      "color_level": 1
+    },
+    {
+      "Team": "St. Louis Billikens",
+      "Hex_Code": "#C8C9C7;",
+      "color_level": 2
+    },
+    {
+      "Team": "St. Louis Billikens",
+      "Hex_Code": "NA",
+      "color_level": 3
+    },
+    {
+      "Team": "St.Mary’s Mountaineers",
+      "Hex_Code": "#002855;",
+      "color_level": 1
+    },
+    {
+      "Team": "St.Mary’s Mountaineers",
+      "Hex_Code": "#84754E;",
+      "color_level": 2
+    },
+    {
+      "Team": "St.Mary’s Mountaineers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "St. Peter’s Peacocks",
+      "Hex_Code": "#003C71;",
+      "color_level": 1
+    },
+    {
+      "Team": "St. Peter’s Peacocks",
+      "Hex_Code": "#0072CE;",
+      "color_level": 2
+    },
+    {
+      "Team": "St. Peter’s Peacocks",
+      "Hex_Code": "#A59C94;",
+      "color_level": 3
+    },
+    {
+      "Team": "St. Peter’s Peacocks",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "St. Peter’s Peacocks",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 5
+    },
+    {
+      "Team": "Stony Brook Seawolves",
+      "Hex_Code": "#990000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Stony Brook Seawolves",
+      "Hex_Code": "#16243e;",
+      "color_level": 2
+    },
+    {
+      "Team": "Stony Brook Seawolves",
+      "Hex_Code": "#828282;",
+      "color_level": 3
+    },
+    {
+      "Team": "Syracuse Orange",
+      "Hex_Code": "#D44500;",
+      "color_level": 1
+    },
+    {
+      "Team": "Syracuse Orange",
+      "Hex_Code": "#3e3d3c;",
+      "color_level": 2
+    },
+    {
+      "Team": "Syracuse Orange",
+      "Hex_Code": "#6f777d;",
+      "color_level": 3
+    },
+    {
+      "Team": "Syracuse Orange",
+      "Hex_Code": "#adb3b8;",
+      "color_level": 4
+    },
+    {
+      "Team": "Syracuse Orange",
+      "Hex_Code": "#3e3d3c;",
+      "color_level": 5
+    },
+    {
+      "Team": "Syracuse Orange",
+      "Hex_Code": "#0D1D37;",
+      "color_level": 6
+    },
+    {
+      "Team": "Temple Owls",
+      "Hex_Code": "#9D2235;",
+      "color_level": 1
+    },
+    {
+      "Team": "Temple Owls",
+      "Hex_Code": "#FFCD00;",
+      "color_level": 2
+    },
+    {
+      "Team": "Temple Owls",
+      "Hex_Code": "#8A8D8F;",
+      "color_level": 3
+    },
+    {
+      "Team": "Temple Owls",
+      "Hex_Code": "#C1C6C8;",
+      "color_level": 4
+    },
+    {
+      "Team": "Temple Owls",
+      "Hex_Code": "#000000;",
+      "color_level": 5
+    },
+    {
+      "Team": "Temple Owls",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 6
+    },
+    {
+      "Team": "Tennessee State Tigers",
+      "Hex_Code": "#00539F;",
+      "color_level": 1
+    },
+    {
+      "Team": "Tennessee State Tigers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "Tennessee Golden Eagles",
+      "Hex_Code": "#4f2984;",
+      "color_level": 1
+    },
+    {
+      "Team": "Tennessee Golden Eagles",
+      "Hex_Code": "#FFDD00;",
+      "color_level": 2
+    },
+    {
+      "Team": "Texas A&M Aggies",
+      "Hex_Code": "#500000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Texas A&M Aggies",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Texas A&M-CC Islanders",
+      "Hex_Code": "#0067C5;",
+      "color_level": 1
+    },
+    {
+      "Team": "Texas A&M-CC Islanders",
+      "Hex_Code": "#007F3E;",
+      "color_level": 2
+    },
+    {
+      "Team": "Texas A&M-CC Islanders",
+      "Hex_Code": "#9EA2A4;",
+      "color_level": 3
+    },
+    {
+      "Team": "Texas A&M-CC Islanders",
+      "Hex_Code": "#002e57;",
+      "color_level": 4
+    },
+    {
+      "Team": "Texas-Arlington Mavericks",
+      "Hex_Code": "#f58025;",
+      "color_level": 1
+    },
+    {
+      "Team": "Texas-Arlington Mavericks",
+      "Hex_Code": "#0064b1;",
+      "color_level": 2
+    },
+    {
+      "Team": "Texas Christian Horned Frogs",
+      "Hex_Code": "#4d1979;",
+      "color_level": 1
+    },
+    {
+      "Team": "Texas Christian Horned Frogs",
+      "Hex_Code": "#a3a9ac;",
+      "color_level": 2
+    },
+    {
+      "Team": "Texas Christian Horned Frogs",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Texas Longhorns",
+      "Hex_Code": "#bf5700;",
+      "color_level": 1
+    },
+    {
+      "Team": "Texas Longhorns",
+      "Hex_Code": "#333f48;",
+      "color_level": 2
+    },
+    {
+      "Team": "Texas Longhorns",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Texas Southern Tigers",
+      "Hex_Code": "#7c183e;",
+      "color_level": 1
+    },
+    {
+      "Team": "Texas Southern Tigers",
+      "Hex_Code": "#9da6ab;",
+      "color_level": 2
+    },
+    {
+      "Team": "Texas Southern Tigers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Texas State Bobcats",
+      "Hex_Code": "#501214;",
+      "color_level": 1
+    },
+    {
+      "Team": "Texas State Bobcats",
+      "Hex_Code": "#8d734a;",
+      "color_level": 2
+    },
+    {
+      "Team": "Texas Tech Red Raiders",
+      "Hex_Code": "#CC0000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Texas Tech Red Raiders",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Texas Tech Red Raiders",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Toledo Rockets",
+      "Hex_Code": "#15397F;",
+      "color_level": 1
+    },
+    {
+      "Team": "Toledo Rockets",
+      "Hex_Code": "#005CB9;",
+      "color_level": 2
+    },
+    {
+      "Team": "Toledo Rockets",
+      "Hex_Code": "#FFDA00;",
+      "color_level": 3
+    },
+    {
+      "Team": "Toledo Rockets",
+      "Hex_Code": "#BEC6C3;",
+      "color_level": 4
+    },
+    {
+      "Team": "Toledo Rockets",
+      "Hex_Code": "#A0ACAA;",
+      "color_level": 5
+    },
+    {
+      "Team": "Toledo Rockets",
+      "Hex_Code": "#000000;",
+      "color_level": 6
+    },
+    {
+      "Team": "Towson Tigers",
+      "Hex_Code": "#FFBB00;",
+      "color_level": 1
+    },
+    {
+      "Team": "Towson Tigers",
+      "Hex_Code": "#3C3C3C;",
+      "color_level": 2
+    },
+    {
+      "Team": "Towson Tigers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Towson Tigers",
+      "Hex_Code": "#DDDDDD;",
+      "color_level": 4
+    },
+    {
+      "Team": "Troy Trojans",
+      "Hex_Code": "#8a2432;",
+      "color_level": 1
+    },
+    {
+      "Team": "Troy Trojans",
+      "Hex_Code": "#b3b5b8;",
+      "color_level": 2
+    },
+    {
+      "Team": "Troy Trojans",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Tulane Green Wave",
+      "Hex_Code": "#006747;",
+      "color_level": 1
+    },
+    {
+      "Team": "Tulane Green Wave",
+      "Hex_Code": "#43B02A;",
+      "color_level": 2
+    },
+    {
+      "Team": "Tulane Green Wave",
+      "Hex_Code": "#418FDE;",
+      "color_level": 3
+    },
+    {
+      "Team": "Tulane Green Wave",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 4
+    },
+    {
+      "Team": "Tulane Green Wave",
+      "Hex_Code": "#000000;",
+      "color_level": 5
+    },
+    {
+      "Team": "Tulsa Golden Hurricane",
+      "Hex_Code": "#002D72;",
+      "color_level": 1
+    },
+    {
+      "Team": "Tulsa Golden Hurricane",
+      "Hex_Code": "#C8102E;",
+      "color_level": 2
+    },
+    {
+      "Team": "Tulsa Golden Hurricane",
+      "Hex_Code": "#C5B783;",
+      "color_level": 3
+    },
+    {
+      "Team": "Tulsa Golden Hurricane",
+      "Hex_Code": "#F3D54E;",
+      "color_level": 4
+    },
+    {
+      "Team": "Tulsa Golden Hurricane",
+      "Hex_Code": "#84754E;",
+      "color_level": 5
+    },
+    {
+      "Team": "UAB Blazers",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "UAB Blazers",
+      "Hex_Code": "#CC8A00;",
+      "color_level": 2
+    },
+    {
+      "Team": "UAB Blazers",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "UAB Blazers",
+      "Hex_Code": "#BF0D3E;",
+      "color_level": 4
+    },
+    {
+      "Team": "UC Davis",
+      "Hex_Code": "#002855;",
+      "color_level": 1
+    },
+    {
+      "Team": "UC Davis",
+      "Hex_Code": "#B3A369;",
+      "color_level": 2
+    },
+    {
+      "Team": "UCF Knights",
+      "Hex_Code": "#ffc904;",
+      "color_level": 1
+    },
+    {
+      "Team": "UCF Knights",
+      "Hex_Code": "#ba9b37;",
+      "color_level": 2
+    },
+    {
+      "Team": "UCF Knights",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "UC Irvine Anteaters",
+      "Hex_Code": "#0C2340;",
+      "color_level": 1
+    },
+    {
+      "Team": "UC Irvine Anteaters",
+      "Hex_Code": "#FFC72C;",
+      "color_level": 2
+    },
+    {
+      "Team": "UCLA Bruins",
+      "Hex_Code": "#2d68c4;",
+      "color_level": 1
+    },
+    {
+      "Team": "UCLA Bruins",
+      "Hex_Code": "#f2a900;",
+      "color_level": 2
+    },
+    {
+      "Team": "UCLA Bruins",
+      "Hex_Code": "#3284BF;",
+      "color_level": 3
+    },
+    {
+      "Team": "UCLA Bruins",
+      "Hex_Code": "#FFE800;",
+      "color_level": 4
+    },
+    {
+      "Team": "UC Riverside Highlanders",
+      "Hex_Code": "#2D6CC0;",
+      "color_level": 1
+    },
+    {
+      "Team": "UC Riverside Highlanders",
+      "Hex_Code": "#003066;",
+      "color_level": 2
+    },
+    {
+      "Team": "UC Riverside Highlanders",
+      "Hex_Code": "#F1AB00;",
+      "color_level": 3
+    },
+    {
+      "Team": "UC Riverside Highlanders",
+      "Hex_Code": "#7A6E67;",
+      "color_level": 4
+    },
+    {
+      "Team": "UC Riverside Highlanders",
+      "Hex_Code": "#000000;",
+      "color_level": 5
+    },
+    {
+      "Team": "UC Santa Barbara Gauchos",
+      "Hex_Code": "#003660;",
+      "color_level": 1
+    },
+    {
+      "Team": "UC Santa Barbara Gauchos",
+      "Hex_Code": "#FEBC11;",
+      "color_level": 2
+    },
+    {
+      "Team": "UIC Flames",
+      "Hex_Code": "#ac1e2d;",
+      "color_level": 1
+    },
+    {
+      "Team": "UIC Flames",
+      "Hex_Code": "#041E42;",
+      "color_level": 2
+    },
+    {
+      "Team": "UIC Flames",
+      "Hex_Code": "#facc09;",
+      "color_level": 3
+    },
+    {
+      "Team": "UMass Minutemen",
+      "Hex_Code": "#971B2F;",
+      "color_level": 1
+    },
+    {
+      "Team": "UMass Minutemen",
+      "Hex_Code": "#572932;",
+      "color_level": 2
+    },
+    {
+      "Team": "UMass Minutemen",
+      "Hex_Code": "#B1B3B3;",
+      "color_level": 3
+    },
+    {
+      "Team": "UMass Minutemen",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "UMass Lowell",
+      "Hex_Code": "#003DA5;",
+      "color_level": 1
+    },
+    {
+      "Team": "UMass Lowell",
+      "Hex_Code": "#C8102E;",
+      "color_level": 2
+    },
+    {
+      "Team": "UMass Lowell",
+      "Hex_Code": "NA",
+      "color_level": 3
+    },
+    {
+      "Team": "UMBC Retrievers",
+      "Hex_Code": "#b18906;",
+      "color_level": 1
+    },
+    {
+      "Team": "UMBC Retrievers",
+      "Hex_Code": "#ffc20e;",
+      "color_level": 2
+    },
+    {
+      "Team": "UMBC Retrievers",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "UMBC Retrievers",
+      "Hex_Code": "#ed1c24;",
+      "color_level": 4
+    },
+    {
+      "Team": "UMKC Kangaroos",
+      "Hex_Code": "#005293;",
+      "color_level": 1
+    },
+    {
+      "Team": "UMKC Kangaroos",
+      "Hex_Code": "#fecb00;",
+      "color_level": 2
+    },
+    {
+      "Team": "UMKC Kangaroos",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "UMKC Kangaroos",
+      "Hex_Code": "#dcddde;",
+      "color_level": 4
+    },
+    {
+      "Team": "UNC Asheville Bulldogs",
+      "Hex_Code": "#003DA5;",
+      "color_level": 1
+    },
+    {
+      "Team": "UNC Asheville Bulldogs",
+      "Hex_Code": "#ffffff;",
+      "color_level": 2
+    },
+    {
+      "Team": "UNC Asheville Bulldogs",
+      "Hex_Code": "#808285;",
+      "color_level": 3
+    },
+    {
+      "Team": "UNC Asheville Bulldogs",
+      "Hex_Code": "#c7c8ca;",
+      "color_level": 4
+    },
+    {
+      "Team": "UNC Asheville Bulldogs",
+      "Hex_Code": "#e31837;",
+      "color_level": 5
+    },
+    {
+      "Team": "UNC Asheville Bulldogs",
+      "Hex_Code": "#231f20;",
+      "color_level": 6
+    },
+    {
+      "Team": "UNC Seahawks",
+      "Hex_Code": "#003366;",
+      "color_level": 1
+    },
+    {
+      "Team": "UNC Seahawks",
+      "Hex_Code": "#006666;",
+      "color_level": 2
+    },
+    {
+      "Team": "UNC Seahawks",
+      "Hex_Code": "#FFD600;",
+      "color_level": 3
+    },
+    {
+      "Team": "UNCG Spartans",
+      "Hex_Code": "#0f2044;",
+      "color_level": 1
+    },
+    {
+      "Team": "UNCG Spartans",
+      "Hex_Code": "#ffb71b;",
+      "color_level": 2
+    },
+    {
+      "Team": "UNCG Spartans",
+      "Hex_Code": "#bec0c2;",
+      "color_level": 3
+    },
+    {
+      "Team": "UNLV Rebels",
+      "Hex_Code": "#CF0A2C;",
+      "color_level": 1
+    },
+    {
+      "Team": "UNLV Rebels",
+      "Hex_Code": "#CAC8C8;",
+      "color_level": 2
+    },
+    {
+      "Team": "UNLV Rebels",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "USC Trojans",
+      "Hex_Code": "#990000;",
+      "color_level": 1
+    },
+    {
+      "Team": "USC Trojans",
+      "Hex_Code": "#FFC72C;",
+      "color_level": 2
+    },
+    {
+      "Team": "Utah Utes",
+      "Hex_Code": "#CC0000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Utah Utes",
+      "Hex_Code": "#808080;",
+      "color_level": 2
+    },
+    {
+      "Team": "Utah Utes",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Utah Valley Wolverines",
+      "Hex_Code": "#275d38;",
+      "color_level": 1
+    },
+    {
+      "Team": "Utah Valley Wolverines",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Utah Valley Wolverines",
+      "Hex_Code": "#8e8c89;",
+      "color_level": 3
+    },
+    {
+      "Team": "Utah State Aggies",
+      "Hex_Code": "#0F2439;",
+      "color_level": 1
+    },
+    {
+      "Team": "Utah State Aggies",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Utah State Aggies",
+      "Hex_Code": "#9d968d;",
+      "color_level": 3
+    },
+    {
+      "Team": "Utah State Aggies",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "UTEP Miners",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "UTEP Miners",
+      "Hex_Code": "#041E42;",
+      "color_level": 2
+    },
+    {
+      "Team": "UTEP Miners",
+      "Hex_Code": "#B1B3B3;",
+      "color_level": 3
+    },
+    {
+      "Team": "UT Martin Skyhawks",
+      "Hex_Code": "#f79728;",
+      "color_level": 1
+    },
+    {
+      "Team": "UT Martin Skyhawks",
+      "Hex_Code": "#002a5b;",
+      "color_level": 2
+    },
+    {
+      "Team": "UTRGV Vaqueros",
+      "Hex_Code": "#FFA300;",
+      "color_level": 1
+    },
+    {
+      "Team": "UTRGV Vaqueros",
+      "Hex_Code": "#f05023;",
+      "color_level": 2
+    },
+    {
+      "Team": "UTRGV Vaqueros",
+      "Hex_Code": "#00843D;",
+      "color_level": 3
+    },
+    {
+      "Team": "UTRGV Vaqueros",
+      "Hex_Code": "#0C2340;",
+      "color_level": 4
+    },
+    {
+      "Team": "UTSA Roadrunners",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "UTSA Roadrunners",
+      "Hex_Code": "#0C2340;",
+      "color_level": 2
+    },
+    {
+      "Team": "Valparaiso Crusaders",
+      "Hex_Code": "#381e0e;",
+      "color_level": 1
+    },
+    {
+      "Team": "Valparaiso Crusaders",
+      "Hex_Code": "#613318;",
+      "color_level": 2
+    },
+    {
+      "Team": "Valparaiso Crusaders",
+      "Hex_Code": "#ffcc00;",
+      "color_level": 3
+    },
+    {
+      "Team": "Valparaiso Crusaders",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 4
+    },
+    {
+      "Team": "Vanderbilt Commodores",
+      "Hex_Code": "#000000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Vanderbilt Commodores",
+      "Hex_Code": "#866d4b;",
+      "color_level": 2
+    },
+    {
+      "Team": "Villanova Wildcats",
+      "Hex_Code": "#00205b;",
+      "color_level": 1
+    },
+    {
+      "Team": "Villanova Wildcats",
+      "Hex_Code": "#13b5ea;",
+      "color_level": 2
+    },
+    {
+      "Team": "Villanova Wildcats",
+      "Hex_Code": "#8B634B;",
+      "color_level": 3
+    },
+    {
+      "Team": "Villanova Wildcats",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 4
+    },
+    {
+      "Team": "Virginia Cavaliers",
+      "Hex_Code": "#232D4B;",
+      "color_level": 1
+    },
+    {
+      "Team": "Virginia Cavaliers",
+      "Hex_Code": "#F84C1E;",
+      "color_level": 2
+    },
+    {
+      "Team": "Virginia Cavaliers",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 3
+    },
+    {
+      "Team": "Virginia Commonwealth Rams",
+      "Hex_Code": "#ffb300;",
+      "color_level": 1
+    },
+    {
+      "Team": "Virginia Commonwealth Rams",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Virginia Tech Hokies",
+      "Hex_Code": "#630031;",
+      "color_level": 1
+    },
+    {
+      "Team": "Virginia Tech Hokies",
+      "Hex_Code": "#cf4420;",
+      "color_level": 2
+    },
+    {
+      "Team": "VMI Keydets",
+      "Hex_Code": "#a71f23;",
+      "color_level": 1
+    },
+    {
+      "Team": "VMI Keydets",
+      "Hex_Code": "#ffd520;",
+      "color_level": 2
+    },
+    {
+      "Team": "VMI Keydets",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "VMI Keydets",
+      "Hex_Code": "#666766;",
+      "color_level": 4
+    },
+    {
+      "Team": "Wagner Seahawks",
+      "Hex_Code": "#00483a;",
+      "color_level": 1
+    },
+    {
+      "Team": "Wagner Seahawks",
+      "Hex_Code": "#b9bbbd;",
+      "color_level": 2
+    },
+    {
+      "Team": "Wagner Seahawks",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Wake Forest Demon Deacons",
+      "Hex_Code": "#9E7E38;",
+      "color_level": 1
+    },
+    {
+      "Team": "Wake Forest Demon Deacons",
+      "Hex_Code": "#000000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Washington Huskies",
+      "Hex_Code": "#4B2E83;",
+      "color_level": 1
+    },
+    {
+      "Team": "Washington Huskies",
+      "Hex_Code": "#b7a57a;",
+      "color_level": 2
+    },
+    {
+      "Team": "Washington Huskies",
+      "Hex_Code": "#85754d;",
+      "color_level": 3
+    },
+    {
+      "Team": "Washington State Cougars",
+      "Hex_Code": "#981E32;",
+      "color_level": 1
+    },
+    {
+      "Team": "Washington State Cougars",
+      "Hex_Code": "#5E6A71;",
+      "color_level": 2
+    },
+    {
+      "Team": "Weber State Wildcats",
+      "Hex_Code": "NA",
+      "color_level": 1
+    },
+    {
+      "Team": "Weber State Wildcats",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "Weber State Wildcats",
+      "Hex_Code": "#000000;",
+      "color_level": 3
+    },
+    {
+      "Team": "Western Carolina Catamounts",
+      "Hex_Code": "#592c88;",
+      "color_level": 1
+    },
+    {
+      "Team": "Western Carolina Catamounts",
+      "Hex_Code": "#C1A875;",
+      "color_level": 2
+    },
+    {
+      "Team": "Western Illinois Leathernecks",
+      "Hex_Code": "#663399;",
+      "color_level": 1
+    },
+    {
+      "Team": "Western Illinois Leathernecks",
+      "Hex_Code": "#ffcc00;",
+      "color_level": 2
+    },
+    {
+      "Team": "Western Kentucky Hilltoppers",
+      "Hex_Code": "#c60c30;",
+      "color_level": 1
+    },
+    {
+      "Team": "Western Kentucky Hilltoppers",
+      "Hex_Code": "#1E1E1E;",
+      "color_level": 2
+    },
+    {
+      "Team": "Western Kentucky Hilltoppers",
+      "Hex_Code": "#A2A4A3;",
+      "color_level": 3
+    },
+    {
+      "Team": "Western Michigan",
+      "Hex_Code": "#6C4023;",
+      "color_level": 1
+    },
+    {
+      "Team": "Western Michigan",
+      "Hex_Code": "#B5A167;",
+      "color_level": 2
+    },
+    {
+      "Team": "Western Michigan",
+      "Hex_Code": "#AAA8AA;",
+      "color_level": 3
+    },
+    {
+      "Team": "Western Michigan",
+      "Hex_Code": "#000000;",
+      "color_level": 4
+    },
+    {
+      "Team": "Western Michigan",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 5
+    },
+    {
+      "Team": "West Virginia Mountaineers",
+      "Hex_Code": "#002855;",
+      "color_level": 1
+    },
+    {
+      "Team": "West Virginia Mountaineers",
+      "Hex_Code": "#EAAA00;",
+      "color_level": 2
+    },
+    {
+      "Team": "Winthrop Eagles",
+      "Hex_Code": "#660000;",
+      "color_level": 1
+    },
+    {
+      "Team": "Winthrop Eagles",
+      "Hex_Code": "#F0B323;",
+      "color_level": 2
+    },
+    {
+      "Team": "Winthrop Eagles",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Wisconsin Badgers",
+      "Hex_Code": "#c5050c;",
+      "color_level": 1
+    },
+    {
+      "Team": "Wisconsin Badgers",
+      "Hex_Code": "#9b0000;",
+      "color_level": 2
+    },
+    {
+      "Team": "Wisconsin Badgers",
+      "Hex_Code": "#ffffff;",
+      "color_level": 3
+    },
+    {
+      "Team": "Wichita State Shockers",
+      "Hex_Code": "#FFCD00;",
+      "color_level": 1
+    },
+    {
+      "Team": "Wichita State Shockers",
+      "Hex_Code": "NA",
+      "color_level": 2
+    },
+    {
+      "Team": "William & Mary Tribe",
+      "Hex_Code": "#115740;",
+      "color_level": 1
+    },
+    {
+      "Team": "William & Mary Tribe",
+      "Hex_Code": "#F0B323;",
+      "color_level": 2
+    },
+    {
+      "Team": "Wofford Terriers",
+      "Hex_Code": "#886E4C;",
+      "color_level": 1
+    },
+    {
+      "Team": "Wofford Terriers",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Wofford Terriers",
+      "Hex_Code": "#C7B37F;",
+      "color_level": 3
+    },
+    {
+      "Team": "Wright State Raiders",
+      "Hex_Code": "#026937;",
+      "color_level": 1
+    },
+    {
+      "Team": "Wright State Raiders",
+      "Hex_Code": "#CEA052;",
+      "color_level": 2
+    },
+    {
+      "Team": "Wright State Raiders",
+      "Hex_Code": "#FFE1A5;",
+      "color_level": 3
+    },
+    {
+      "Team": "Wright State Raiders",
+      "Hex_Code": "#DE6328;",
+      "color_level": 4
+    },
+    {
+      "Team": "Wyoming Cowboys",
+      "Hex_Code": "#ffc425;",
+      "color_level": 1
+    },
+    {
+      "Team": "Wyoming Cowboys",
+      "Hex_Code": "#492f24;",
+      "color_level": 2
+    },
+    {
+      "Team": "Xavier Musketeers",
+      "Hex_Code": "#0C2340;",
+      "color_level": 1
+    },
+    {
+      "Team": "Xavier Musketeers",
+      "Hex_Code": "#9EA2A2;",
+      "color_level": 2
+    },
+    {
+      "Team": "Xavier Musketeers",
+      "Hex_Code": "#0099CC;",
+      "color_level": 3
+    },
+    {
+      "Team": "Yale Bulldogs",
+      "Hex_Code": "#00356b;",
+      "color_level": 1
+    },
+    {
+      "Team": "Yale Bulldogs",
+      "Hex_Code": "#FFFFFF;",
+      "color_level": 2
+    },
+    {
+      "Team": "Youngstown State Penguins",
+      "Hex_Code": "#C8102E;",
+      "color_level": 1
+    },
+    {
+      "Team": "Youngstown State Penguins",
+      "Hex_Code": "#F3D54E;",
+      "color_level": 2
+    },
+    {
+      "Team": "Youngstown State Penguins",
+      "Hex_Code": "NA",
+      "color_level": 3
+    },
+    {
+      "Team": "Youngstown State Penguins",
+      "Hex_Code": "NA",
+      "color_level": 4
+    }
+   ]
