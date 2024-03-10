@@ -108,9 +108,19 @@ In the preceding command, uvicorn takes the following arguments:
 - `--reload`: An optional argument included to restart the application on every
   file change.
 
+Windows:
 ```powershell
 python -m venv venv
 .\venv\Scripts\activate
+pip install fastapi uvicorn
+# pip freeze > requirements.txt
+pip freeze | Out-File -Encoding UTF8 requirements.txt
+
+# pip uninstall -r requirements.txt -y
+```
+MacOS:
+```powershell
+source venv\bin\activate
 pip install fastapi uvicorn
 # pip freeze > requirements.txt
 pip freeze | Out-File -Encoding UTF8 requirements.txt
