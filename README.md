@@ -17,7 +17,7 @@ deactivate
 
 MacOS:
 ```powershell
-source venv\bin\activate
+source -m venv venv\bin\activate
 ```
 
 ```powershell
@@ -147,9 +147,29 @@ The icon was created by Pause08 on Flaticon.
 
 ## 4. Using the App
 
-To run the app, create a virtual environment and install the requirements in requirements.txt as shown above in #1. After that, navigate using the 'cd' command to the folder where this project is stored. Then, paste the following command in your terminal:
+To run the app, create a virtual environment and install the requirements in requirements.txt as explained above and shown in the code below. 
 
+Windows:
+```powershell
+python -m venv venv
+.\venv\Scripts\activate
+pip install -r requirements.txt
+pip install fastapi uvicorn
+```
+
+MacOS:
+```powershell
+source -m venv venv\bin\activate
+source venv\bin\activate
+pip install -r requirements.txt
+pip install fastapi uvicorn
+```
+
+After that, navigate using the 'cd' command to the folder where this project is stored. Then, paste the following command in your terminal:
+
+```powershell
 uvicorn main:app --port 8000 --reload
+```
 
 When the steps above are the completed, the app will open your web browser with the setup shown in the image below.
 
