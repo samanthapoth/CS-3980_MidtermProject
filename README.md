@@ -159,4 +159,4 @@ Complete the form and click the "Update" button for changes to take effect.
 
 To delete a team, click the trash can icon next ot the edit icon. This will permanently delete team from your app.
 
-Enjoy using the app to track which NCAA teams you follow!
+Enjoy using the app to track which NCAA teams you enjoy watching!
