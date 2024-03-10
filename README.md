@@ -3,6 +3,8 @@ This app was created for CS:3980:001 at the University of Iowa as a midterm proj
 
 ## 1. Python virtual environment
 
+To create a virtual environment, use the following commands. You will install the specific python packages needed for this app (in requirements.txt) in the virtual environment you have created.
+
 Windows:
 ```powershell
 python -m venv venv
@@ -68,7 +70,7 @@ command is used:
 pip install -r requirements.txt
 ```
 
-The preceding command is mostly used in deployment.
+The preceding command is mostly used in deployment. Install requirements.txt to ensure you have the correct packages and versions needed to use this app.
 
 ## uvicorn
 
@@ -78,7 +80,7 @@ folder we created earlier. The dependencies are the following:
 - fastapi: The framework on which we'll build our application.
 - uvicorn: An Asynchronous Server Gateway Interface module to run our application.
 
-First, activate your development environment by running the following command in your
+First, activate your virtual environment by running the following command in your
 project directory:
 
 ```powershell
@@ -135,7 +137,7 @@ The icon was created by Pause08 on Flaticon.
 
 ## 4. Using the App
 
-To run the app, install the requirements in requirements.txt as shown above. After that, navigate using the 'cd' command to the folder where this project is stored. Then, paste the following command in your terminal:
+To run the app, create a virtual environment and install the requirements in requirements.txt as shown above in #1. After that, navigate using the 'cd' command to the folder where this project is stored. Then, paste the following command in your terminal:
 
 uvicorn main:app --port 8000 --reload
 
