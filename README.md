@@ -179,7 +179,7 @@ To add a new team, press the "Add New Sports Team" button. This will bring up a 
 
 <img width="500" alt="Screenshot 2024-03-08 at 8 49 14 PM" src="https://github.com/samanthapoth/CS-3980_MidtermProject/assets/90707077/1fe68c11-f668-4eb1-a1aa-7026c58d54b7">
 
-Users must select crom the dropdown the name of the NCAA team they follow and what gender of sports they will be following. The Sport description box is optional for users to input what specific sport they would like to follow. Click the "Add" button to add the team to your list.
+Users must select from the dropdown the name of the NCAA team they follow and what gender of sports they will be following. The Sport description box is optional for users to input what specific sport they would like to follow. Click the "Add" button to add the team to your list.
 
 To edit the Name, Gender, or Sport of a team that you have added, click the edit button shown in the image below.
 
